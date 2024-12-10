@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>About the AI Club</title>
+    <link href="/2024/12/10/about%20the%20AI%20club/"/>
+    <url>/2024/12/10/about%20the%20AI%20club/</url>
+    
+    <content type="html"><![CDATA[<p>I started the club in the first semester of G3. The initial idea was to spread some of the machine learning knowledges that I learnt and organise the club members to make group projects, but as I dived deeper and deeper into human science, some of my thoughts inevitably appeared in the content. Here is a poster showing what I’ve talked about:</p><p><img src="/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%A4%BE%E6%88%90%E6%9E%9C%E5%B1%95%E6%B5%B7%E6%8A%A5.jpg" alt="The poster"></p><p>As you can see, there were two sections.</p><h1 id="Technical-section"><a href="#Technical-section" class="headerlink" title="Technical section"></a>Technical section</h1><p>In this section, we’ve mainly talked about the history of AI and some of the classical algorithms in machine learning.</p><p>Sadly, the my teaching notes were all written in Chinese. So I’ll put a brief list here in case the pic above didn’t load correctly.</p><ul><li>History of Al</li><li>Introduction to Machine Learning</li><li>Linear regression (with code)</li><li>Polynomial &amp; stepwise regression</li><li>Logistic regression (with code)</li><li>Support vector machine</li><li>Decision trees &amp; random forest</li><li>KNN algorithm (with code)</li></ul><p>In future there will be</p><ul><li>principle component analysis</li><li>k means algorithm</li><li>DBSCAN</li><li>some other algorithms</li><li>and a bunch of deep learning of course.</li></ul><h1 id="Non-technical-section"><a href="#Non-technical-section" class="headerlink" title="Non-technical section"></a>Non-technical section</h1><p>In this section I introduced ideas from philosophy, linguistic, literary theory and sociology to explore AI and its relationship with us. The thing is, I’m really not expert in any of these fields, but my knowledge was sufficient to organise arguments and show them during club activities.</p><p>So, there basically were:</p><ul><li>Al in explaining the essence of intelligence</li><li>Introduction to linguistics and literary theory</li><li>Understanding LLMs from the stance of Wittgenstein</li><li>Reflecting technology: our relationship with technology and the future of humanity</li></ul><p>An english video in Chinese platform that I found rather inspiring: <a href="https://www.bilibili.com/video/BV1LU6TYREVA/?spm_id_from=333.337.search-card.all.click&vd_source=a11672ab4b7422a8bd5b681f29388dba">video from bilibili</a></p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+    
+    
+    <categories>
+      
+      <category>extended activities</category>
+      
+      <category>artificial intelligence club</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>My Artificial Intelligence Club</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>STS</title>
     <link href="/2024/12/09/STS/"/>
     <url>/2024/12/09/STS/</url>
@@ -15,7 +42,7 @@
       
       <category>extended activities</category>
       
-      <category>artificial intelligent club</category>
+      <category>artificial intelligence club</category>
       
     </categories>
     
@@ -64,7 +91,7 @@
   
   
   <entry>
-    <title>About this blog</title>
+    <title>About this Blog</title>
     <link href="/2024/12/06/hello-world/"/>
     <url>/2024/12/06/hello-world/</url>
     
