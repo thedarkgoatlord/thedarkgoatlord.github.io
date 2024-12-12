@@ -4,16 +4,47 @@
   
   
   <entry>
-    <title>Ant on a Rubber Rope</title>
-    <link href="/2024/12/11/Ant-in-a-rope/"/>
-    <url>/2024/12/11/Ant-in-a-rope/</url>
+    <title>Machine Code(1) A Level Computer Science</title>
+    <link href="/2024/12/12/Machine-Code-1-A-Level-Computer-Science/"/>
+    <url>/2024/12/12/Machine-Code-1-A-Level-Computer-Science/</url>
     
-    <content type="html"><![CDATA[<h1 id="Topic"><a href="#Topic" class="headerlink" title="Topic"></a>Topic</h1><p>There is a rubber band that can be stretched infinitely, its initial length is 100 meters, there is a small ant crawling speed of 1 meter per second, the little ant wants to climb from one end of the rubber band to the other end, we imagine the little ant as a point, then the ideal time for the little ant to climb from one end to the other is 100 seconds. Imagine that if the rubber band starts to lengthen at a speed of 1 meter per second at the same time that the little ant starts crawling, assuming that the rubber band can be elongated infinitely, and the life span of the little ant is infinitely long, then in this case, can the little ant successfully climb from one end of the rubber band to the other end?</p><p>If can, how much time is required?</p><h1 id="Solution"><a href="#Solution" class="headerlink" title="Solution"></a>Solution</h1><p>The key is to notice that the travelled distance also enjoy a portion of the total stretch of 1m&#x2F;s, and this portion is increasing as the ant proceed.</p><p>Therefore,<br><img src="/ant1.jpg"><br><img src="/ant2.jpg"><br><img src="/ant3.jpg"></p><p>It roughly takes 172 seconds for the ant to reach the end.</p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+    <content type="html"><![CDATA[<p><img src="/pics/2024_12_12_CsClass-1.jpg"><br><img src="/pics/2024_12_12_CsClass-2.jpg"><br><img src="/pics/2024_12_12_CsClass-3.jpg"><br><img src="/pics/2024_12_12_CsClass-4.jpg"><br><img src="/pics/2024_12_12_CsClass-5.jpg"></p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
     
     
     <categories>
       
-      <category>math thoughts</category>
+      <category>class notes</category>
+      
+      <category>a level computer science</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>computer science</tag>
+      
+      <tag>machine code</tag>
+      
+      <tag>assembly language</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Ant on a Rubber Rope</title>
+    <link href="/2024/12/11/Ant-in-a-rope/"/>
+    <url>/2024/12/11/Ant-in-a-rope/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Topic"><a href="#Topic" class="headerlink" title="Topic"></a>Topic</h1><p>There is a rubber band that can be stretched infinitely, its initial length is 100 meters, there is a small ant crawling speed of 1 meter per second, the little ant wants to climb from one end of the rubber band to the other end, we imagine the little ant as a point, then the ideal time for the little ant to climb from one end to the other is 100 seconds. Imagine that if the rubber band starts to lengthen at a speed of 1 meter per second at the same time that the little ant starts crawling, assuming that the rubber band can be elongated infinitely, and the life span of the little ant is infinitely long, then in this case, can the little ant successfully climb from one end of the rubber band to the other end?</p><p>If can, how much time is required?</p><h1 id="Solution"><a href="#Solution" class="headerlink" title="Solution"></a>Solution</h1><p>The key is to notice that the travelled distance also enjoy a portion of the total stretch of 1m&#x2F;s, and this portion is increasing as the ant proceed.</p><p>Therefore,<br><img src="/pics/ant1.jpg"><br><img src="/pics/ant2.jpg"><br><img src="/pics/ant3.jpg"></p><p>It roughly takes 172 seconds for the ant to reach the end.</p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+    
+    
+    <categories>
+      
+      <category>random thoughts</category>
       
     </categories>
     
@@ -37,7 +68,7 @@
     <link href="/2024/12/10/about%20the%20AI%20club/"/>
     <url>/2024/12/10/about%20the%20AI%20club/</url>
     
-    <content type="html"><![CDATA[<p>I started the club in the first semester of G3. The initial idea was to spread some of the machine learning knowledges that I learnt and organise the club members to make group projects, but as I dived deeper and deeper into human science, some of my thoughts inevitably appeared in the content. Here is a poster showing what I’ve talked about:</p><p><img src="/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%A4%BE%E6%88%90%E6%9E%9C%E5%B1%95%E6%B5%B7%E6%8A%A5.jpg" alt="The poster"></p><p>As you can see, there were two sections.</p><h1 id="Technical-section"><a href="#Technical-section" class="headerlink" title="Technical section"></a>Technical section</h1><p>In this section, we’ve mainly talked about the history of AI and some of the classical algorithms in machine learning.</p><p>Sadly, the my teaching notes were all written in Chinese. So I’ll put a brief list here in case the pic above didn’t load correctly.</p><ul><li>History of Al</li><li>Introduction to Machine Learning</li><li>Linear regression (with code)</li><li>Polynomial &amp; stepwise regression</li><li>Logistic regression (with code)</li><li>Support vector machine</li><li>Decision trees &amp; random forest</li><li>KNN algorithm (with code)</li></ul><p>In future there will be</p><ul><li>principle component analysis</li><li>k means algorithm</li><li>DBSCAN</li><li>some other algorithms</li><li>and a bunch of deep learning of course.</li></ul><h1 id="Non-technical-section"><a href="#Non-technical-section" class="headerlink" title="Non-technical section"></a>Non-technical section</h1><p>In this section I introduced ideas from philosophy, linguistic, literary theory and sociology to explore AI and its relationship with us. The thing is, I’m still  not expert in any of these fields, but my knowledge was sufficient to organise arguments and show them during club activities.</p><p>So, there basically were:</p><ul><li>Al in explaining the essence of intelligence</li><li>Introduction to linguistics and literary theory</li><li>Understanding LLMs from the stance of Wittgenstein</li><li>Reflecting technology: our relationship with technology and the future of humanity</li></ul><p>An english video in Chinese platform that I found rather inspiring: <a href="https://www.bilibili.com/video/BV1LU6TYREVA/?spm_id_from=333.337.search-card.all.click&vd_source=a11672ab4b7422a8bd5b681f29388dba">video from bilibili</a></p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+    <content type="html"><![CDATA[<p>I started the club in the first semester of G3. The initial idea was to spread some of the machine learning knowledges that I learnt and organise the club members to make group projects, but as I dived deeper and deeper into human science, some of my thoughts inevitably appeared in the content. Here is a poster showing what I’ve talked about:</p><p><img src="/pics/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%A4%BE%E6%88%90%E6%9E%9C%E5%B1%95%E6%B5%B7%E6%8A%A5.jpg" alt="The poster"></p><p>As you can see, there were two sections.</p><h1 id="Technical-section"><a href="#Technical-section" class="headerlink" title="Technical section"></a>Technical section</h1><p>In this section, we’ve mainly talked about the history of AI and some of the classical algorithms in machine learning.</p><p>Sadly, the my teaching notes were all written in Chinese. So I’ll put a brief list here in case the pic above didn’t load correctly.</p><ul><li>History of Al</li><li>Introduction to Machine Learning</li><li>Linear regression (with code)</li><li>Polynomial &amp; stepwise regression</li><li>Logistic regression (with code)</li><li>Support vector machine</li><li>Decision trees &amp; random forest</li><li>KNN algorithm (with code)</li></ul><p>In future there will be</p><ul><li>principle component analysis</li><li>k means algorithm</li><li>DBSCAN</li><li>some other algorithms</li><li>and a bunch of deep learning of course.</li></ul><h1 id="Non-technical-section"><a href="#Non-technical-section" class="headerlink" title="Non-technical section"></a>Non-technical section</h1><p>In this section I introduced ideas from philosophy, linguistic, literary theory and sociology to explore AI and its relationship with us. The thing is, I’m still  not expert in any of these fields, but my knowledge was sufficient to organise arguments and show them during club activities.</p><p>So, there basically were:</p><ul><li>Al in explaining the essence of intelligence</li><li>Introduction to linguistics and literary theory</li><li>Understanding LLMs from the stance of Wittgenstein</li><li>Reflecting technology: our relationship with technology and the future of humanity</li></ul><p>An english video in Chinese platform that I found rather inspiring: <a href="https://www.bilibili.com/video/BV1LU6TYREVA/?spm_id_from=333.337.search-card.all.click&vd_source=a11672ab4b7422a8bd5b681f29388dba">video from bilibili</a></p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
     
     
     <categories>
