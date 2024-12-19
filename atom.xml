@@ -1,244 +1,265 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DarkGoatLord&#39;s Blog</title>
   
+  <subtitle>雾窗外月色长明的博客</subtitle>
+  <link href="https://thedarkgoatlord.github.io/atom.xml" rel="self"/>
   
+  <link href="https://thedarkgoatlord.github.io/"/>
+  <updated>2024-12-18T11:18:14.350Z</updated>
+  <id>https://thedarkgoatlord.github.io/</id>
+  
+  <author>
+    <name>Jason Li</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>2024_12_18</title>
-    <link href="/2024/12/18/2024_12_17/"/>
-    <url>/2024/12/18/2024_12_17/</url>
+    <link href="https://thedarkgoatlord.github.io/2024/12/18/2024_12_17/"/>
+    <id>https://thedarkgoatlord.github.io/2024/12/18/2024_12_17/</id>
+    <published>2024-12-18T11:15:55.737Z</published>
+    <updated>2024-12-18T11:18:14.350Z</updated>
     
     <content type="html"><![CDATA[<p>我走出门。这一刻，头脑里横冲直撞的激流撞上了楼道里的冷风，在空中飞溅起来，终于落了地，降下温来。打了个激灵，一时在门前站住了。接着是茫然。过了一会，灯泡闪了一闪，“啪”地一声，便只留下寂静和沉重的霉味，从斑驳的墙纸散发。从那个、或是每个角落：渗入我的脚踝，我的皮肤。我的双眼。</p><p>我没有往前走。我仅仅是站在门前。就这么……站着。</p><p>那时，我才终于有了更加仔细地打量一下这个决定的想法。一旦迈出下一步……我下意识地低头望去。奇怪的是，那里没有我的脚。视线里有地板，这是因为月光，我知道。很老旧的瓷砖。接着看到一块污渍，那里寄宿着一小块从不远处的铁窗里漏进来的肮脏视线。或者是路灯？但总之没有我的脚。奇怪的是，我仍能感受到它：我的脚。或许我可以动动我的脚？那样我兴许就能认出它了，可惜我不能。我不能。为什么？紧接着，答案在我心中自然地浮现。</p><p>一旦迈出下一步，我就会死。</p><p>不。我心想。然而只有迈出下一步，才可以走下楼梯，这是显而易见的。那么，先把那块污渍当作我的脚吧。也许我有办法使那块污渍移动？不，我不能。</p><p>不，我可以。</p><p>不，我不能。</p><p>不，我当然可以离开这里。我会迈出下一步，接着有下一步，再下一步。那时我就可以一直往前走。我想道。这并不难。只要移动我的脚，这再简单不过了。我能感到它。</p><p>不。然而，我被什么钉在这里。我不能……我不能我不能我不</p><p>小时候，我的母亲会带着我剪纸人。先把长长的纸反复折叠，成了一个长方块之后，用铅笔画一个小人，再用剪子剪出来，再拨开，就成了许多的小纸人。我像是纸人。因为当我往左望去时，我看到我从我被剥开，分裂出无数个相同的门口，绵延开去，望不见头。那些面目模糊的人脸都望向我。起先是带有些许期待的眼神，而后显得有些困惑。接着是茫然，最后是……怨恨。如同蛇。如同……缓慢燃烧的火。如同裂口，从中迸发出猩红的岩浆。我下意识地向右望去。</p><p>它们全都看着我。</p><p>我站着。被囚禁。监牢是视线。我被视线囚禁。视线，如同蛇。爬上我的躯体。冰冷。如同死亡。这时，不安才真正渗透为恐惧。我能够预见。</p><p>一旦迈出下一步，我就会死。</p><p>太安静了，以至于我的耳朵如被针扎似的，隐隐有些痛起来。我开始颤抖。我不能迈出下一步。我不能走下楼梯，我不会。在此之前从没有，未来也永远不会。我被囚禁在这里，囚禁？折磨。我仍然看不见我的脚，但我能感到它的心跳。如此剧烈，如此痉挛。那时，我便开始仇恨。仇恨地板，不，那不是地板。那是面孔，欺骗，皮肤与肌肉分离。仇恨墙壁，不，那不是墙壁。那是声音，诅咒，裂缝流出的血。仇恨生命？不，那不是生命。那是幻觉，融化。融化了？冷。冰冷，冰冷的梦。时间穿过我，滴，滴，走，走过，走过去，未来的过去，过去没有未来，影子在墙上跳舞。空气，空气和脖颈，然而我并不能够。我能？打开之后关上，关，闭嘴……闭嘴！</p><p>我在地板上流淌成河。</p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
     
     
-    <categories>
       
-      <category>random thoughts</category>
       
-    </categories>
+    <summary type="html">&lt;p&gt;我走出门。这一刻，头脑里横冲直撞的激流撞上了楼道里的冷风，在空中飞溅起来，终于落了地，降下温来。打了个激灵，一时在门前站住了。接着是茫然。过了一会，灯泡闪了一闪，“啪”地一声，便只留下寂静和沉重的霉味，从斑驳的墙纸散发。从那个、或是每个角落：渗入我的脚踝，我的皮肤。我的双眼</summary>
+      
+    
+    
+    
+    <category term="random thoughts" scheme="https://thedarkgoatlord.github.io/categories/random-thoughts/"/>
     
     
   </entry>
   
-  
-  
   <entry>
     <title>Technology and Us</title>
-    <link href="/2024/12/16/Technology-and-us/"/>
-    <url>/2024/12/16/Technology-and-us/</url>
+    <link href="https://thedarkgoatlord.github.io/2024/12/16/Technology-and-us/"/>
+    <id>https://thedarkgoatlord.github.io/2024/12/16/Technology-and-us/</id>
+    <published>2024-12-16T07:03:02.000Z</published>
+    <updated>2024-12-16T09:09:30.820Z</updated>
     
     <content type="html"><![CDATA[<p>Today’s plan is:</p><ol><li>talk about technology and society for a while</li><li>let them think and write on their own</li></ol><p>Here’s a brief note on what I plan to say.<br>Warning: it is probably going to be pretty disorganised and chaotic, since I am putting all of my randoms thoughts together. I’ll organise them when I’m on stage later.</p><h1 id="Human-in-inventing-technology"><a href="#Human-in-inventing-technology" class="headerlink" title="Human in inventing technology"></a>Human in inventing technology</h1><ul><li>Start with the <strong>agricultural revolution</strong> in shaping the human society. <ul><li>Before the agricultural revolution there was the hunting and gathering society, which occupied 90% of the human society.</li><li>discuss about the hunting and gathering society.<div class='spoiler collapsed'>    <div class='spoiler-title'>        An useful argument    </div>    <div class='spoiler-content'>        <p> Before this, most people tended to view prehistory through the lens of linear progress. Since agriculture emerged later and eventually replaced the hunter-gatherer lifestyle in most parts of the world, it was assumed to represent a form of advancement. As a result, hunter-gatherer societies were considered resource-scarce and subsistence-based, while the invention of agriculture was seen as liberating humanity from extreme dependence on nature.</p><p>However, through in-depth studies of existing hunter-gatherer groups, anthropologists have discovered that their subsistence was not particularly difficult, and they enjoyed significant amounts of free time. Notably, the daytime sleep duration per person in these societies far exceeded that of any other type of society. Compared to farmers who toiled endlessly, they appeared remarkably “lazy.” Furthermore, when measuring energy output per unit of time, farmers were not significantly more productive than hunter-gatherers. Robust evidence supports this view, such as Marshall Sahlins’ Stone Age Economics (1972), in which the first chapter explicitly refers to hunter-gatherers as The Original Affluent Society. This characterization highlights that their material needs were easily met and critiques the infinite desires fostered by modern market economies.</p><p>Moreover, most surviving hunter-gatherer groups today have been pushed to marginal, inhospitable environments unsuitable for agriculture (such as the Bushmen of the Kalahari Desert). Prehistoric hunter-gatherers who lived in more favorable environments likely enjoyed even greater leisure. Additionally, ethnographic studies indicate that hunter-gatherers did not exploit resources intensively. Their population levels were far below the maximum capacity that their resource base and subsistence methods could theoretically support. In other words, they were not as constrained by basic necessities as commonly imagined.</p><p>Archaeological records provide further insights. Unlike the mobile lifestyles of hunter-gatherers, farmers settled in villages where water sources were often polluted. Domestication of animals and other factors led to the spread of infectious diseases. The repetitive physical labor of farming resulted in bodies that were no longer as well-proportioned as those of hunter-gatherers. Farmers suffered from cavities due to high-starch diets, deformed joints from constant strain, and malnutrition from insufficient intake of animal protein. These issues are clearly documented in the skeletal remains excavated from agricultural societies.</p><p>original Chinese text:</p><p>在此之前，多数人还是习惯以线性进步观看待史前史——农业既然晚出而且在地球上绝大多数地区都取代了狩猎采集生活方式，肯定是由于某种进步，于是狩猎采集社会被认为是资源匮乏、仅能糊口，而农业的发明则把人类解放出来、摆脱了对自然的极度依赖。</p><p>然而，经过对现存狩猎采集群体的深入调查，人类学家发现他们谋生并不艰难，生活中也有非常多自由支配时间，特别是每人每天的白天睡觉时间长度要远大于其他任何类型的社会，跟终日劳作的农民相比，他们显得太懒惰了，而从单位时间的能量产出来看，农民比狩猎采集者好不到哪里去。这些方面的过硬证据，比如萨林斯的《石器时代经济学》（Marshall Sahlins，1972-Stone Age Economics，第一章就直言狩猎采集者是The Original Affluent Society，意即那个社会所有人的物质需求都能轻易得到满足，带有强烈的批判当代市场经济和人们的无限欲望的意味）。更何况，现存的狩猎采集者通常是被农民排挤到环境恶劣、不适宜农耕的边缘地带中的（如卡拉哈里沙漠的布须曼人），在史前生存在更优渥环境中的狩猎采集者，实际可能会更悠闲。另外，民族志中的狩猎采集者对资源的利用强度并不高，他们的人口水平远低于根据其生计方式和资源建模推测的所能供养人口的极限，换句话说，他们并没有像想象中的那样被基本生活资料所限制。</p><p>另外则是考古记录，与一直四处游荡的狩猎采集者不同，农民定居在一个村子里，周围的水体通常会遭到污染，驯化家畜等因素带来的传染病容易传播，终日机械动作使他们不再像狩猎采集者那样体型匀称，他们的牙齿因为食用太多的淀粉而成了龋齿，他们的关节因为承受经常的重压而变形，他们因动物蛋白摄入不足而营养不良……这些都在出土的人类骨骼上留下了清晰的记录。</p><p>link: <a href="https://www.zhihu.com/question/41216771">https://www.zhihu.com/question/41216771</a></p>    </div></div></li></ul></li><li>Actually, human is not always inventing things that are better than the existing ones. Another example is the realism and naturalism in the literary theory.<ul><li><strong>Realism</strong>: Emerged in the late 18th and early 19th centuries, inheriting the theory of mimesis. It emphasizes the active reflection and representation of reality in literature—this reflection is not mechanical but involves subjective selection and creation. It aims to reveal the essential laws of social life. For example, Stendhal’s The Red and the Black exposes social structure and issues through the story of a common person’s social ascent.</li><li><strong>Naturalism</strong>: Emerged in the late 19th century, emphasizing objective and scientific truth, focusing on the unconditional reproduction and documentation of nature in literature. It is seen as unlikely to be fully realized and is considered a kind of regression. Key figure: Émile Zola.  <div class='spoiler collapsed'>    <div class='spoiler-title'>        original note in Chinese    </div>    <div class='spoiler-content'>        <ul><li><strong>现实主义</strong>：兴起于十八世纪末，十九世纪初，继承了模仿说。强调文学作品对于现实能动的反映和再现：这个反应不是机械的，而是有主观的选择和创造。要求揭示社会生活的本质规律。比如说，司汤达《红与黑》通过小人物的上爬揭示社会的结构和问题。</li><li><strong>自然主义</strong>：兴起于十九世纪后期，强调客观的真实，科学的真实，强调文学对于自然的无条件复制和记录。不太可能实现，某种倒退。代表人物：左拉 (my previous notes in literary theory)</li></ul>    </div></div></li></ul></li><li>Conclusion: progress is not always good.</li></ul><h1 id="Progress-in-controlling-human"><a href="#Progress-in-controlling-human" class="headerlink" title="Progress in controlling human"></a>Progress in controlling human</h1><p>Maybe it’s not us making progress, but progress demanding us to contribute to it? The subtle difference here is whether we have the control of it. Can we call for a stop?</p><p>As an <a href="https://www.youtube.com/watch?v=zgXgkpu7pkg&t=1335s">youtube video</a> showed, </p><p><img src="/pics/industrial_progress.png"></p><p>“Progress produces it self but then requires itself so it must consume itself… Today we are so dependent on technology that we can not really let this loop stop.”</p><p>What is it from the perspective from an average person? Here is an argument written by myself:</p><p>Before I die, I live. To maintain the state of being alive, I need commodities. To acquire commodities, I need money. This most likely means I need to work. Thus, in the process of working and pursuing work, I am forced to submit to discipline.</p><p>This is a simplified logical chain for a rational individual in the context of contemporary society. Why simplified? Because the functions of work, money, and commodities extend beyond mere subsistence. Together, they define one’s identity, effectively resolving the question of “Who am I?” In other words, “I” am the cleaner, the programmer, the teacher, the father, or the mother. “I” am my bank balance, the gaze of others upon me, the commodities I purchase, the clothes I wear, and the perfected persona I sculpt to market myself. Going further, as we immerse ourselves in this societal game, our goal extends beyond mere “survival” to achieve dignified survival. That is, we seek to avoid pain and pursue pleasure.</p><p>For this, we are willing to sacrifice a great deal. Scoring high on an exam? Landing that high-paying job? Of course, I want these! Why wouldn’t I? Even though I don’t fully understand what they mean, I know they will bring me more pleasure, more of… I don’t know, but certainly better things. You ask what I truly desire? Of course, it’s these lovely commodities! What other answer could there be? Throw yourself into the game! Cast aside thoughts of death—this new laptop is exactly what you need, this new book you’ll never read is what you need, this new house is what you need, marriage is what you need, the pleasure of lying on the couch scrolling through short videos for an entire afternoon is what you need. To obtain all this, you need exams, you need work, you need to abide by all the unspoken rules of society. Isn’t that right?</p><p>It’s not?</p><p>Then what will you do? At the end of the day, do you have another choice? For instance, pursuing something else—what’s that? You say, “I pursue pain”? What are you talking about? Pain being as precious as pleasure? Shut your mouth; I don’t even want to hear it. You must participate in this game. You must convince yourself: this is what I want. Otherwise, your life will collapse in an instant.</p><p>You vaguely sense that this is false. This is an illusion, a means to escape the underlying meaninglessness of life. Yet, you have no other way. The logical chain I laid out at the beginning is so robust that no one can escape it. Thus, the moment you start thinking, you begin to suffer. So, is cheap happiness better, or is noble suffering better? Stop and think about it for a moment. This is the question Dostoevsky raises in Notes from Underground.</p><p>The problem is, the former is clearly not what you want, but neither is the latter. You find yourself in a dilemma.</p><p>However, this problem is actually solvable—by realizing there are not only two paths. Yes, there can be cheap suffering and noble happiness. Moreover, we can oscillate between happiness and suffering, and this is who I am: I experience the ecstasy of life in the midst of agony.</p><p>We ought to embrace agony. Embrace the unknown, the dangerous, the fearful, the unspoken. That is the path I should take, for it allows me to escape falsehood.</p><p>You might say, what’s the use of thinking about these things? Discipline is so powerful that we are all trapped within it. After making such a statement, won’t you still wake up at 7 a.m. to go to school and come back at 10 p.m.? Does this have any meaning?</p><p>Meaning? Is the purpose of life to pursue meaning? It seems we are drowned by this mainstream narrative: everyone is searching for meaning. No one finds it, so they resort to present pleasures and enjoyments. “Oh, live in the moment. The moment is meaning. Be yourself.” And so on. This is absurd: after saying these things, we throw ourselves even more fervently into material pursuits, willingly enslaved by family, school, corporations, and governments.</p><p>Therefore, I say no. To me, life is about pursuing wholeness: pleasure does not make me whole; pain makes me whole. More importantly, only the ecstasy of life and the agony of death can make me whole. Life gives death its possibility; death gives life its completeness.</p><p>I live for ecstasy and to die in agony.</p><div class='spoiler collapsed'>    <div class='spoiler-title'>        original text in Chinese    </div>    <div class='spoiler-content'>        <p>在死之前，我活着。为了维持活着的状态，就需要商品。为了获取商品，我需要货币。这大概率意味着我需要工作。那么，在工作以及追求工作的路途中，我就要被迫服从规训。</p><p>这是当今社会语境下理性个体的一条简化的逻辑链。为什么是简化的？因为工作、货币和商品的功能不仅于此。它们联合起来，完成了对于个体对于其身份的定义，也就是标签化地解决了“我是谁”的问题。换言之，“我”就是那个清洁工，那个码农，那个教师，那个父亲或者母亲；“我”就是我的余额，他人投向我的目光，我购买的商品，那身我穿着的衣服，我用来销售自己而雕塑的那个完美的人格。更进一步，当我们投身社会给我们制定的这一场游戏中，我们的目的便远远不仅是“生存”，而更是要“<em>体面地生存</em>”。这就是说，我们躲避痛苦，追求愉悦。</p><p>为此，我们可以牺牲不少东西。在考试中获得高分？获得那份高薪工作？这当然是我想要的！我怎么会不想要呢？虽然我不知道那到底意味着什么，但我知道那正是我想要的。我知道它会给我带来更多的愉悦，更多的……我不知道，但总之是更好的东西。你问我自己究竟想要什么？当然是这些可爱的商品！难道还有别的答案吗？投身这场游戏吧！把死亡抛之脑后，这台新笔记本电脑正是你需要的，这本你并不会看的新书正是你需要的，这套新房子正是你需要的，婚姻正是你需要的，在沙发上躺着刷一个下午短视频所带来的愉悦正是你需要的。为了获得这些，你需要考试，你需要工作，你需要遵守社会中的一切不言自明。不是吗？</p><p>不是？</p><p>那你要怎么做呢？说到底，你有别的做法吗？比方说，追求别的什么东西，——你说什么？“我追求痛苦”？你在说什么？嗯？不，痛苦怎么可能和愉悦同样珍贵？闭上你的嘴，我简直不想听你说话。你<strong>不得不</strong>参与这场游戏。你<strong>不得不</strong>说服自己相信：那就是我想要的。不然，你的生活顷刻就崩塌。</p><p>你隐隐地意识到，这是虚假的。这是幻觉，对于生命潜在无意义的一种逃避。然而，你没有别的办法。我在开头抛出的逻辑链如此坚固，没有任何人能逃离。于是一旦思考，你便开始痛苦。那么，是廉价的幸福好，还是崇高的痛苦好？停下来思考一下吧。这是陀思妥耶夫斯基在他的《地下室手记》中发出的疑问。</p><p>问题就在于，前者必不是你想要的，后者也不尽然。你陷入了一种困境。</p><p>然而，这问题其实好解决，那就是认识到这里不只有两条路。没错，这里可以有廉价的痛苦和崇高的幸福。更进一步，我们可以在幸福与痛苦中来回震荡，这便是我：我在剧痛中体会生命的狂喜。</p><p>应该去拥抱剧痛。拥抱那未知的，危险的，恐惧的，被避而不谈的。那才是我应该投奔的道路，因为它允许我逃离虚假。</p><p>你会说，想这些有什么用呢？规训如此强力，我们都在其中动弹不得。在发表这么一番言论之后，您照样要早上七点起来上学，晚上十点回家，这有什么意义吗？</p><p>意义？生命的目的在于追求意义吗？我们好像被这种主流的声音给淹没了：大家都在追寻意义。没有人能找到，于是只好诉诸于当下的愉悦和享乐：噢，活在当下吧。当下就是意义。做你自己。等等。这简直是一种荒诞：我们在这么说之后变本加厉地投身于物质的追求，为此甘心被家庭、学校、公司、政府所奴役。</p><p>因此我要说不。在我看来，生命在于追求完整：愉悦并不使我完整；痛苦使我完整。更进一步说，只有生命的<strong>狂喜</strong>和死亡的<strong>剧痛</strong>能够使我完整。生命给死亡以可能，死亡给生命以完整。</p><p>我活着，正是为了狂喜，并在剧痛中死去。</p>    </div></div><p>每一年都有无数人重复地发现异化这一概念, 而且也实际上意识到了是私有制的等级社会, 而非某种”现代或都市生活”, 造就了这一状况. 但是当需要他们将这一点明确地讲出来时, 大多数人退缩了.</p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
     
     
-    <categories>
       
-      <category>extended activities</category>
       
-      <category>artificial intelligence club</category>
+    <summary type="html">&lt;p&gt;Today’s plan is:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;talk about technology and society for a while&lt;/li&gt;
+&lt;li&gt;let them think and write on their own&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;</summary>
       
-    </categories>
     
     
-    <tags>
-      
-      <tag>philosophy</tag>
-      
-      <tag>artificial intelligence</tag>
-      
-      <tag>science technology and society</tag>
-      
-    </tags>
+    
+    <category term="extended activities" scheme="https://thedarkgoatlord.github.io/categories/extended-activities/"/>
+    
+    <category term="artificial intelligence club" scheme="https://thedarkgoatlord.github.io/categories/extended-activities/artificial-intelligence-club/"/>
+    
+    
+    <category term="philosophy" scheme="https://thedarkgoatlord.github.io/tags/philosophy/"/>
+    
+    <category term="artificial intelligence" scheme="https://thedarkgoatlord.github.io/tags/artificial-intelligence/"/>
+    
+    <category term="science technology and society" scheme="https://thedarkgoatlord.github.io/tags/science-technology-and-society/"/>
     
   </entry>
   
-  
-  
   <entry>
     <title>死亡</title>
-    <link href="/2024/12/16/%E6%80%9D%E7%BB%AA/"/>
-    <url>/2024/12/16/%E6%80%9D%E7%BB%AA/</url>
+    <link href="https://thedarkgoatlord.github.io/2024/12/16/%E6%80%9D%E7%BB%AA/"/>
+    <id>https://thedarkgoatlord.github.io/2024/12/16/%E6%80%9D%E7%BB%AA/</id>
+    <published>2024-12-15T23:46:02.000Z</published>
+    <updated>2024-12-18T11:18:41.964Z</updated>
     
     <content type="html"><![CDATA[<p>于是，不可避免地，我又想到死亡。我设想了我前往死亡的路途，以及那个临终的画面——在我的设想中，那是一个较为平静的场景。</p><h1 id="前往死亡"><a href="#前往死亡" class="headerlink" title="前往死亡"></a>前往死亡</h1><p>在死之前，我活着。为了维持活着的状态，就需要商品。为了获取商品，我需要货币。这大概率意味着我需要工作。那么，在工作以及追求工作的路途中，我就要被迫服从规训。</p><p>这是当今社会语境下理性个体的一条简化的逻辑链。为什么是简化的？因为工作、货币和商品的功能不仅于此。它们联合起来，完成了对于个体对于其身份的定义，也就是标签化地解决了“我是谁”的问题。换言之，“我”就是那个清洁工，那个码农，那个教师，那个父亲或者母亲；“我”就是我的余额，他人投向我的目光，我购买的商品，那身我穿着的衣服，我用来销售自己而雕塑的那个完美的人格。更进一步，当我们投身社会给我们制定的这一场游戏中，我们的目的便远远不仅是“生存”，而更是要“<em>体面地生存</em>”。这就是说，我们躲避痛苦，追求愉悦。</p><p>为此，我们可以牺牲不少东西。在考试中获得高分？获得那份高薪工作？这当然是我想要的！我怎么会不想要呢？虽然我不知道那到底意味着什么，但我知道那正是我想要的。我知道它会给我带来更多的愉悦，更多的……我不知道，但总之是更好的东西。你问我自己究竟想要什么？当然是这些可爱的商品！难道还有别的答案吗？投身这场游戏吧！把死亡抛之脑后，这台新笔记本电脑正是你需要的，这本你并不会看的新书正是你需要的，这套新房子正是你需要的，婚姻正是你需要的，在沙发上躺着刷一个下午短视频所带来的愉悦正是你需要的。为了获得这些，你需要考试，你需要工作，你需要遵守社会中的一切不言自明。不是吗？</p><p>不是？</p><p>那你要怎么做呢？说到底，你有别的做法吗？比方说，追求别的什么东西，——你说什么？“我追求痛苦”？你在说什么？嗯？不，痛苦怎么可能和愉悦同样珍贵？闭上你的嘴，我简直不想听你说话。你<strong>不得不</strong>参与这场游戏。你<strong>不得不</strong>说服自己相信：那就是我想要的。不然，你的生活顷刻就崩塌。</p><p>你隐隐地意识到，这是虚假的。这是幻觉，对于生命潜在无意义的一种逃避。然而，你没有别的办法。我在开头抛出的逻辑链如此坚固，没有任何人能逃离。于是一旦思考，你便开始痛苦。那么，是廉价的幸福好，还是崇高的痛苦好？停下来思考一下吧。这是陀思妥耶夫斯基在他的《地下室手记》中发出的疑问。</p><p>问题就在于，前者必不是你想要的，后者也不尽然。你陷入了一种困境。</p><p>然而，这问题其实好解决，那就是认识到这里不只有两条路。没错，这里可以有廉价的痛苦和崇高的幸福。更进一步，我们可以在幸福与痛苦中来回震荡，这便是我：我在剧痛中体会生命的狂喜。</p><p>应该去拥抱剧痛。拥抱那未知的，危险的，恐惧的，被避而不谈的。那才是我应该投奔的道路，因为它允许我逃离虚假。</p><p>你会说，想这些有什么用呢？规训如此强力，我们都在其中动弹不得。在发表这么一番言论之后，您照样要早上七点起来上学，晚上十点回家，这有什么意义吗？</p><p>意义？生命的目的在于追求意义吗？我们好像被这种主流的声音给淹没了：大家都在追寻意义。没有人能找到，于是只好诉诸于当下的愉悦和享乐：噢，活在当下吧。当下就是意义。做你自己。等等。这简直是一种荒诞：我们在这么说之后变本加厉地投身于物质的追求，为此甘心被家庭、学校、公司、政府所奴役。</p><p>因此我要说不。在我看来，生命在于追求完整：愉悦并不使我完整；痛苦使我完整。更进一步说，只有生命的<strong>狂喜</strong>和死亡的<strong>剧痛</strong>能够使我完整。生命给死亡以可能，死亡给生命以完整。</p><p>我活着，正是为了狂喜，并在剧痛中死去。</p><h1 id="死亡的时刻"><a href="#死亡的时刻" class="headerlink" title="死亡的时刻"></a>死亡的时刻</h1><p>奇怪的是，狂喜和剧痛在我体内不断迸发的外化体现是平静。因此我想，不论我的死亡如何出奇地痛苦，或是充盈着巨大的喜悦，那会是一个平静的瞬间。</p><p>照我眼下的性格，我认为那会是一个孤独的时刻。或许并不是物理上的与他人隔绝，孤独，是为死亡作准备。</p><p>为什么？你会问。为什么我不想要一个温馨的死亡瞬间，比方说，我的家人和朋友围绕在身边，依依不舍地向我告别。我会回答：这是因为我希望独自面对我的死。去独自面对它的冰冷和忧郁，如同我一直做的那样。</p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
     
     
-    <categories>
       
-      <category>random thoughts</category>
       
-    </categories>
+    <summary type="html">&lt;p&gt;于是，不可避免地，我又想到死亡。我设想了我前往死亡的路途，以及那个临终的画面——在我的设想中，那是一个较为平静的场景。&lt;/p&gt;
+&lt;h1 id=&quot;前往死亡&quot;&gt;&lt;a href=&quot;#前往死亡&quot; class=&quot;headerlink&quot; title=&quot;前往死亡&quot;&gt;&lt;/a&gt;前往死亡&lt;/h</summary>
+      
     
     
-    <tags>
-      
-      <tag>philosophy</tag>
-      
-      <tag>death</tag>
-      
-    </tags>
+    
+    <category term="random thoughts" scheme="https://thedarkgoatlord.github.io/categories/random-thoughts/"/>
+    
+    
+    <category term="philosophy" scheme="https://thedarkgoatlord.github.io/tags/philosophy/"/>
+    
+    <category term="death" scheme="https://thedarkgoatlord.github.io/tags/death/"/>
     
   </entry>
   
-  
-  
   <entry>
     <title>Machine Code(1) A Level Computer Science</title>
-    <link href="/2024/12/12/Machine-Code-1-A-Level-Computer-Science/"/>
-    <url>/2024/12/12/Machine-Code-1-A-Level-Computer-Science/</url>
+    <link href="https://thedarkgoatlord.github.io/2024/12/12/Machine-Code-1-A-Level-Computer-Science/"/>
+    <id>https://thedarkgoatlord.github.io/2024/12/12/Machine-Code-1-A-Level-Computer-Science/</id>
+    <published>2024-12-12T05:52:14.000Z</published>
+    <updated>2024-12-12T05:59:11.498Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/pics/2024_12_12_CsClass-1.jpg"><br><img src="/pics/2024_12_12_CsClass-2.jpg"><br><img src="/pics/2024_12_12_CsClass-3.jpg"><br><img src="/pics/2024_12_12_CsClass-4.jpg"><br><img src="/pics/2024_12_12_CsClass-5.jpg"></p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
     
     
-    <categories>
       
-      <category>class notes</category>
       
-      <category>a level computer science</category>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/pics/2024_12_12_CsClass-1.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;/pics/2024_12_12_CsClass-2.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;/pics/2024_12_12_CsClass-3.jpg&quot;&gt;&lt;br</summary>
       
-    </categories>
     
     
-    <tags>
-      
-      <tag>computer science</tag>
-      
-      <tag>machine code</tag>
-      
-      <tag>assembly language</tag>
-      
-    </tags>
+    
+    <category term="class notes" scheme="https://thedarkgoatlord.github.io/categories/class-notes/"/>
+    
+    <category term="a level computer science" scheme="https://thedarkgoatlord.github.io/categories/class-notes/a-level-computer-science/"/>
+    
+    
+    <category term="computer science" scheme="https://thedarkgoatlord.github.io/tags/computer-science/"/>
+    
+    <category term="machine code" scheme="https://thedarkgoatlord.github.io/tags/machine-code/"/>
+    
+    <category term="assembly language" scheme="https://thedarkgoatlord.github.io/tags/assembly-language/"/>
     
   </entry>
   
-  
-  
   <entry>
     <title>Ant on a Rubber Rope</title>
-    <link href="/2024/12/11/Ant-in-a-rope/"/>
-    <url>/2024/12/11/Ant-in-a-rope/</url>
+    <link href="https://thedarkgoatlord.github.io/2024/12/11/Ant-in-a-rope/"/>
+    <id>https://thedarkgoatlord.github.io/2024/12/11/Ant-in-a-rope/</id>
+    <published>2024-12-11T10:54:20.000Z</published>
+    <updated>2024-12-12T00:11:48.635Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Topic"><a href="#Topic" class="headerlink" title="Topic"></a>Topic</h1><p>There is a rubber band that can be stretched infinitely, its initial length is 100 meters, there is a small ant crawling speed of 1 meter per second, the little ant wants to climb from one end of the rubber band to the other end, we imagine the little ant as a point, then the ideal time for the little ant to climb from one end to the other is 100 seconds. Imagine that if the rubber band starts to lengthen at a speed of 1 meter per second at the same time that the little ant starts crawling, assuming that the rubber band can be elongated infinitely, and the life span of the little ant is infinitely long, then in this case, can the little ant successfully climb from one end of the rubber band to the other end?</p><p>If can, how much time is required?</p><h1 id="Solution"><a href="#Solution" class="headerlink" title="Solution"></a>Solution</h1><p>The key is to notice that the travelled distance also enjoy a portion of the total stretch of 1m&#x2F;s, and this portion is increasing as the ant proceed.</p><p>Therefore,<br><img src="/pics/ant1.jpg"><br><img src="/pics/ant2.jpg"><br><img src="/pics/ant3.jpg"></p><p>It roughly takes 172 seconds for the ant to reach the end.</p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
     
     
-    <categories>
       
-      <category>random thoughts</category>
       
-    </categories>
+    <summary type="html">&lt;h1 id=&quot;Topic&quot;&gt;&lt;a href=&quot;#Topic&quot; class=&quot;headerlink&quot; title=&quot;Topic&quot;&gt;&lt;/a&gt;Topic&lt;/h1&gt;&lt;p&gt;There is a rubber band that can be stretched infinitely, i</summary>
+      
     
     
-    <tags>
-      
-      <tag>mathematics</tag>
-      
-      <tag>integrals</tag>
-      
-      <tag>product rule</tag>
-      
-    </tags>
+    
+    <category term="random thoughts" scheme="https://thedarkgoatlord.github.io/categories/random-thoughts/"/>
+    
+    
+    <category term="mathematics" scheme="https://thedarkgoatlord.github.io/tags/mathematics/"/>
+    
+    <category term="integrals" scheme="https://thedarkgoatlord.github.io/tags/integrals/"/>
+    
+    <category term="product rule" scheme="https://thedarkgoatlord.github.io/tags/product-rule/"/>
     
   </entry>
   
-  
-  
   <entry>
     <title>About the AI Club</title>
-    <link href="/2024/12/10/about%20the%20AI%20club/"/>
-    <url>/2024/12/10/about%20the%20AI%20club/</url>
+    <link href="https://thedarkgoatlord.github.io/2024/12/10/about%20the%20AI%20club/"/>
+    <id>https://thedarkgoatlord.github.io/2024/12/10/about%20the%20AI%20club/</id>
+    <published>2024-12-10T10:14:34.855Z</published>
+    <updated>2024-12-11T13:01:58.220Z</updated>
     
     <content type="html"><![CDATA[<p>I started the club in the first semester of G3. The initial idea was to spread some of the machine learning knowledges that I learnt and organise the club members to make group projects, but as I dived deeper and deeper into human science, some of my thoughts inevitably appeared in the content. Here is a poster showing what I’ve talked about:</p><p><img src="/pics/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%A4%BE%E6%88%90%E6%9E%9C%E5%B1%95%E6%B5%B7%E6%8A%A5.jpg" alt="The poster"></p><p>As you can see, there were two sections.</p><h1 id="Technical-section"><a href="#Technical-section" class="headerlink" title="Technical section"></a>Technical section</h1><p>In this section, we’ve mainly talked about the history of AI and some of the classical algorithms in machine learning.</p><p>Sadly, the my teaching notes were all written in Chinese. So I’ll put a brief list here in case the pic above didn’t load correctly.</p><ul><li>History of Al</li><li>Introduction to Machine Learning</li><li>Linear regression (with code)</li><li>Polynomial &amp; stepwise regression</li><li>Logistic regression (with code)</li><li>Support vector machine</li><li>Decision trees &amp; random forest</li><li>KNN algorithm (with code)</li></ul><p>In future there will be</p><ul><li>principle component analysis</li><li>k means algorithm</li><li>DBSCAN</li><li>some other algorithms</li><li>and a bunch of deep learning of course.</li></ul><h1 id="Non-technical-section"><a href="#Non-technical-section" class="headerlink" title="Non-technical section"></a>Non-technical section</h1><p>In this section I introduced ideas from philosophy, linguistic, literary theory and sociology to explore AI and its relationship with us. The thing is, I’m still  not expert in any of these fields, but my knowledge was sufficient to organise arguments and show them during club activities.</p><p>So, there basically were:</p><ul><li>Al in explaining the essence of intelligence</li><li>Introduction to linguistics and literary theory</li><li>Understanding LLMs from the stance of Wittgenstein</li><li>Reflecting technology: our relationship with technology and the future of humanity</li></ul><p>An english video in Chinese platform that I found rather inspiring: <a href="https://www.bilibili.com/video/BV1LU6TYREVA/?spm_id_from=333.337.search-card.all.click&vd_source=a11672ab4b7422a8bd5b681f29388dba">video from bilibili</a></p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
     
     
-    <categories>
       
-      <category>extended activities</category>
       
-      <category>artificial intelligence club</category>
+    <summary type="html">&lt;p&gt;I started the club in the first semester of G3. The initial idea was to spread some of the machine learning knowledges that I learnt and </summary>
       
-    </categories>
     
     
-    <tags>
-      
-      <tag>artificial intelligence</tag>
-      
-    </tags>
+    
+    <category term="extended activities" scheme="https://thedarkgoatlord.github.io/categories/extended-activities/"/>
+    
+    <category term="artificial intelligence club" scheme="https://thedarkgoatlord.github.io/categories/extended-activities/artificial-intelligence-club/"/>
+    
+    
+    <category term="artificial intelligence" scheme="https://thedarkgoatlord.github.io/tags/artificial-intelligence/"/>
     
   </entry>
   
-  
-  
   <entry>
     <title>STS</title>
-    <link href="/2024/12/09/STS/"/>
-    <url>/2024/12/09/STS/</url>
+    <link href="https://thedarkgoatlord.github.io/2024/12/09/STS/"/>
+    <id>https://thedarkgoatlord.github.io/2024/12/09/STS/</id>
+    <published>2024-12-09T07:44:10.000Z</published>
+    <updated>2024-12-10T10:40:46.484Z</updated>
     
     <content type="html"><![CDATA[<p>I’m planning to talk about this new major I just discovered online: Science Technology and Society(STS). I found it pretty as interesting as computer science and philosophy.</p><p>Taking a quote from a <a href="https://zhuanlan.zhihu.com/p/551996494">zhihu post</a>:</p><blockquote><p>Many people envy the high salaries of coders and therefore choose to pursue a technical career. However, simply mastering technology can trap you in a cycle of homogeneity, making you highly replaceable. <strong>As technology advances, the threshold for using tools and technologies is lowering, and what sets you apart in terms of competitive advantage are the skills taught by the humanities and social sciences—creativity</strong>, problem-solving abilities, decision-making skills, and management capabilities. These humanistic skills determine your competitiveness and whether you possess an irreplaceable advantage.</p></blockquote><blockquote><p>On the other hand, technological development often outpaces the establishment of regulations and policies. This disconnect and lack of oversight present significant challenges to both economic and environmental sustainability. Moreover, the delayed discussions on ethics and safety are unavoidable, leading to contradictions and negative effects caused by technology. Both governments and businesses need to incorporate more technically trained individuals with a humanities background to formulate strategies and catch up with the pace of technology in establishing standards.</p></blockquote><blockquote><p>This trend is becoming increasingly evident. Prospectuses of technology companies now include extensive discussions on technological ethics and information security. At last year’s World Artificial Intelligence Conference, companies and universities, including Huawei and Tsinghua, jointly explored the risks and challenges posed by artificial intelligence and how to fully realize its social value.</p></blockquote><blockquote><p>It is easy to imagine that in the near future, we will witness the growing necessity of integrating technology with humanities and social sciences.</p></blockquote><p>I also found an <a href="https://www.bilibili.com/video/BV1LU6TYREVA/?spm_id_from=333.337.search-card.all.click&vd_source=a11672ab4b7422a8bd5b681f29388dba">amazing video</a> that can act as a wonderful introduction to it.</p><p>References：</p><ul><li><a href="https://zhuanlan.zhihu.com/p/551996494">STS：美国大学横跨文理科的新贵专业</a></li><li><a href="https://www.bilibili.com/video/BV1LU6TYREVA/?spm_id_from=333.337.search-card.all.click&vd_source=a11672ab4b7422a8bd5b681f29388dba">【熟肉】幽洞无鸣【Horses】</a></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
     
     
-    <categories>
       
-      <category>extended activities</category>
       
-      <category>artificial intelligence club</category>
+    <summary type="html">&lt;p&gt;I’m planning to talk about this new major I just discovered online: Science Technology and Society(STS). I found it pretty as interesting</summary>
       
-    </categories>
     
     
-    <tags>
-      
-      <tag>artificial intelligence</tag>
-      
-      <tag>Science Technology and Society</tag>
-      
-    </tags>
+    
+    <category term="extended activities" scheme="https://thedarkgoatlord.github.io/categories/extended-activities/"/>
+    
+    <category term="artificial intelligence club" scheme="https://thedarkgoatlord.github.io/categories/extended-activities/artificial-intelligence-club/"/>
+    
+    
+    <category term="artificial intelligence" scheme="https://thedarkgoatlord.github.io/tags/artificial-intelligence/"/>
+    
+    <category term="Science Technology and Society" scheme="https://thedarkgoatlord.github.io/tags/Science-Technology-and-Society/"/>
     
   </entry>
   
-  
-  
   <entry>
     <title>Recalling the ChinaWeek</title>
-    <link href="/2024/12/08/ChinaWeek/"/>
-    <url>/2024/12/08/ChinaWeek/</url>
+    <link href="https://thedarkgoatlord.github.io/2024/12/08/ChinaWeek/"/>
+    <id>https://thedarkgoatlord.github.io/2024/12/08/ChinaWeek/</id>
+    <published>2024-12-08T09:40:29.000Z</published>
+    <updated>2024-12-09T04:22:08.032Z</updated>
     
     <content type="html"><![CDATA[<p>For me, the journey of China week means a lot. Although in essence it was no more than a voluntary teaching event that lasted a week, the experiences were so intense that I can still recall several scenes in their full details.</p><p>It was the first time for me being able to change people’s lives. After all my learning in sociology and thoughts in philosophy, it came as a perfect occasion for them to become handful.</p><p>Yes, I want to change. I have heard from the senior students about how children in the rural areas were addictive to short videos, and the neglect they were experiencing. I wanted to see it with my own eyes and perhaps, make a difference. Because deeply I believe, the essence of poverty in China can’t be explained by merely talking about class distinction, instead it was more of a cultural deprivation. This deprivation, for me, mainly included: 1) unequal access to educational resources. 2) addiction to short videos and online games.</p><p>Although I designed four courses or so, there were two of them I took as the most important: the use of internet and the philosophy. The former, focus on the ways we obtain information on the internet. Should we believe in the authority? In what ways can I learn something online? How can we use LLMs in a better way? I especially talked about how short videos were designed to make people addicted, to shorten their eyesights(information cocoons) and to control their beliefs accompanied by the problem of agenda setting. The latter, focused on critical thinking: to scrutinise. To doubt what seems to be trivial. To better judge between real and unreal. You’ll see what I mean by reading the journal below(especially the third day I think).</p><p>A natural question is: could they really understand what I planned to talk about? My answer is: yes. From that perspective, I can almost call myself a good teacher.</p><p>Here below are the English transcript of my journal. Translation is done using chat GPT. Original text in Chinese is further down below.</p><p>I do think it started be become interesting since day 3, but reading through the first two days won’t cause you any harm.</p><h1 id="Day-1-November-24-2024"><a href="#Day-1-November-24-2024" class="headerlink" title="Day 1. November 24, 2024"></a>Day 1. November 24, 2024</h1><div class='spoiler collapsed'>    <div class='spoiler-title'>        click to expand    </div>    <div class='spoiler-content'>        <p>Arriving in Yimeng. The cold air has cleared my mind but also deepened my thoughts. I only have a week to accomplish what I want to do—in precise terms, four classes. For me, this feels almost heavy: I want to bring about… change. I hope to change something. This is the original intent behind designing my philosophy class.</p><p>To achieve this, I must step into their context, understand their perspectives on learning and the future, grasp how they see the world, and discern the trajectory they are on. Then, take action and change something—through words, as a teacher.</p><p>Although this isn’t my first time standing in front of a class, I still feel somewhat uneasy in this role. Tomorrow, I have two classes to teach: one on AI and music, and another on modern poetry. I’ll focus on preparing for these two first, adapting to the role of teacher, and take it from there.</p>    </div></div><h1 id="Day-2-November-25-2024"><a href="#Day-2-November-25-2024" class="headerlink" title="Day 2. November 25, 2024"></a>Day 2. November 25, 2024</h1><div class='spoiler collapsed'>    <div class='spoiler-title'>        click to expand    </div>    <div class='spoiler-content'>        <p>The second day of China Week. Aside from my own AI music class and poetry class, I also participated as a teaching assistant in an economics primer and three English pronunciation classes.</p><p>The English pronunciation lessons were a novel teaching experience: we explored the phonetic nature of the English language during the sessions. For instance, when teaching the word spark, we explained its pronunciation by having students imagine the sound of flames burning wood, linking the sound to the concept it describes. Similarly, we discussed how the words spoon and fork subtly reflect the shapes of the objects they represent. Unexpectedly, since the first-grade students had no prior exposure to English, teaching them proved extraordinarily challenging, and we nearly ran into awkward silences several times. Fortunately, I managed to avert complete failure by relying on improvisation and extemporaneous speaking skills.</p><p>As for my own classes, there were also unexpected developments. During the economics primer in the morning, I was inspired by Zhou Zimo’s teaching approach. During a ten-minute break, I decided to redesign my entire poetry lesson. Specifically, I removed some parts of the poetry appreciation segment and shifted the focus toward exploring general concepts about poetry: What is poetry? Why do we write poetry? What is lyricism? Why do we need indirect expression in lyricism? What is defamiliarization? Starting from specific poems (some traditional Chinese poems), I gradually introduced and discussed these questions.</p><p>In the second half of the class, we delved into poetry appreciation. I guided the fifth-grade students to read classic works by Yu Xiuhua, Gu Cheng, Shu Zi, and Velvet Meteor, inviting them to write down their feelings about one of the poems on a piece of paper. I encouraged them to express their impressions not just in words but also through drawings, envisioning poetry through their eyes.</p><p>The second class was on AI and music. I quickly realized that these children were almost entirely unaware of the recent advancements in AI, so I spent some time introducing them to ChatGPT, Suno, and other prominent models that have emerged across various fields in recent years. Afterward, I played some music clips I found on the Udio platform and demonstrated how to use AI music models for free with Udio’s free quota. Then, I handed each student a piece of paper and invited them to write down an idea for a song. Some students completed their ideas before the end of class, while others were assigned to finish them as homework. Their writing was simple and childlike, but I could glimpse something precious in their words.</p>    </div></div><h1 id="Day-3-November-26-2024"><a href="#Day-3-November-26-2024" class="headerlink" title="Day 3. November 26, 2024"></a>Day 3. November 26, 2024</h1><p>Perhaps it was the intense focus I had during yesterday’s classes; a deep fatigue shrouded my mind from the moment I woke up. On my way to school, I looked up only to see the sun glaring, blinding my eyes. The cold wind cleared my head a bit, but it couldn’t dispel the exhaustion screaming from deep within my nerves. This weariness stirred up a worry in me: the first class of the day would be mine—a philosophy class, and an important one.</p><p>When I arrived at school, there were still more than ten minutes before the class started. I rested my head on a library table, but in what felt like an instant, I found myself standing at the front of the classroom. Yan Yihang was standing beside me, and it was time for me to speak.</p><p>At that moment, I remembered countless instances on stage, holding an instrument to my lips, one beat away from beginning a solo. And I recalled the best thing to do in those moments: pause.</p><p>So, I paused.</p><p>Then, I began.</p><p>“Today, we’re going to talk about a subject that you might not usually encounter,” I said, writing two characters on the blackboard: 哲学 (philosophy). “Has anyone heard of this subject before?” Heads shook across the room. “Good,” I continued. “What is philosophy? You might come across many different definitions of philosophy in the future. But to me, philosophy is about asking questions. What kind of questions? Questions about things that seem unworthy of questioning. It’s like doubting—doubting the things that seem doubtful isn’t what’s needed; what truly needs to be doubted are the things that seem beyond doubt.”</p><p>After saying this, I suddenly found something: composure. Deliberation. Confidence. I knew what I was explaining. I realized I could convey it clearly. And so, I went on.</p><p>What is essence? What is the essence of a person? What does death mean for every kind of thought? Why do we believe in the soul?</p><p>I found myself in control of the class’s rhythm. I interspersed the lesson with interactive moments, and the students occasionally raised questions or let out exclamations during my explanations. Sometimes they laughed at first, only to fall into quiet contemplation moments later. As I spoke, the fatigue began to dissipate. At times, my tone became more impassioned. I sketched on the blackboard; chalk dust fell to the floor. And then, as I finished a stroke, the bell rang.</p><p>Walking out of the classroom, I looked up at the window and saw the sunlight outside. I stopped and confirmed: yes, the sun glares, so intensely.</p><h1 id="Day-4-November-27-2024"><a href="#Day-4-November-27-2024" class="headerlink" title="Day 4. November 27, 2024"></a>Day 4. November 27, 2024</h1><p>Waking up this morning felt awful. The journey to school seemed longer than on previous days. I stumbled now and then, followed by bouts of tinnitus. After the ringing faded, it seemed to linger faintly in my mind—or perhaps it disappeared entirely, leaving only a vague impression. By the end, I couldn’t tell if it had really been there at all.</p><p>Upon arriving at school, my frostbitten hands started to ache as usual. I wasn’t in the mood to talk, so I went straight to the library and fell asleep. My watch alarm woke me, and I headed to the third-grade classroom. This morning, I had internet literacy classes with third and fourth graders. We started by discussing the differences between search engines, moved on to the echo chambers of short videos, the issues of fixed opinions, agenda-setting, and finally, the hallucination problem of large language models. I could feel the students’ attentiveness, especially during the part about short videos.</p><p>The afternoon held the main events: a poetry class with fifth graders and a philosophy class with sixth graders.</p><p>In the poetry class, I began by writing a few poems on the blackboard—Zhao Lihua’s ‘A Person Comes to Tennessee’ and William Carlos Williams’s ‘This Is Just to Say’—and asked the students whether these sentences could be considered poetry. After some debate, we realized: What is poetry? The question wasn’t as simple as it seemed. This led to a discussion on essentialism and anti-essentialism in poetry. We then explored prose poetry and the concept of “poeticity(a Chinese word describing some poetic a text is).” After citing examples of prose poetry, we delved into the notion of literariness. I structured the discussion around three aspects: language and symbols, emotions and imagery, and imagination and fiction.</p><p>Regrettably, I got carried away and lost track of time, barely completing the discussion of the first aspect. I explained how poetry uses form and rhythm to convey beauty through ‘This Is Just to Say’ and introduced the concept of linguistic non-referentiality through Bei Dao’s ‘Life’. From a linguistic perspective, I explained the relationship between signifier (symbols) and signified (meaning). If we have a thought or inspiration (signified) but cannot find the corresponding signifier, we encounter the issue of ineffability. I proposed two solutions: automatic writing and randomness. After outlining the limitations of automatic writing, we conducted a class activity: half the students wrote the first half of a line, and the other half wrote the second. Realizing only three minutes were left, I quickly explained the rationale: randomness can sometimes resolve ineffability. As ‘The Literary Mind and the Carving of Dragons’ suggests, “Imagination in emptiness is ingenious; words grounded in reality are less so.” To make language ingenious, we must explore unconventional combinations, and randomness is a useful tool for that.</p><p>The bell rang. Unexpectedly, the students swarmed around me, asking for my name (I had them call me “Goat Teacher,” my nickname), whether there would be more poetry classes, if I could finish the discussion, and whether I wrote poetry myself. Their enthusiasm made me happy but also a little regretful—I didn’t have any more poetry classes with them. Before leaving, I saw the copy of Yu Xiuhua’s poetry collection, We Loved and Forgot, still on the podium. It comforted me to think I had left them with more than just these two classes.</p><p>The last class of the day was sixth-grade philosophy, with the theme of “truth.” I began by showing them several human faces and asked them to guess which country these people were from. Then I shifted gears and revealed that none of the faces belonged to real people—they were all AI-generated. After analyzing what had just happened, I wrote what I believed to be the most important sentence of the lesson on the blackboard: “The more realistic something appears, the more deceptive it often is.”</p><p>The rest of the class was spent illustrating how various media use their power to guide, deceive, and manipulate people’s thoughts. We had a focused discussion on the question of literary truth. I introduced the concept of “poetic truth” and explained that literature is not merely a mirror of reality—it can also exert a profound influence on it. In fact, the true purpose of my time here as a volunteer teacher aligned with the goal of this lesson: to expose falsehoods and inspire critical thinking. Unexpectedly, much of this had already been achieved in the earlier internet literacy classes with other grades.</p><h1 id="Day-5-November-28-2024"><a href="#Day-5-November-28-2024" class="headerlink" title="Day 5. November 28, 2024"></a>Day 5. November 28, 2024</h1><p>The fifth day of my teaching stint was full of unexpected turns. For instance, during the fifth-grade internet literacy class in the morning, the Director of the Linyi City Education Bureau suddenly walked into the classroom while Yan Yihang and I were teaching. And then, what we thought would be just two classes turned into three: after finishing the fifth-grade internet literacy and the sixth-grade poetry class, we were abruptly asked to lead a collage-making session for first graders. The problem? We couldn’t even find double-sided tape or scissors.</p><p>Thankfully, after frantically running around the school building, we managed to gather the necessary materials just two minutes before class began. However, as soon as we entered the classroom, we were greeted by three crying children. Exhaustion and whatever composure we’d accumulated over the week failed us momentarily, leaving us at a loss. After awkwardly soothing the children, we took the class outside to collect leaves from around the school, which we brought back to the classroom to create leaf collages. We then handed out watercolor markers for them to embellish their works, and we ended the session with a group photo—a somewhat chaotic but ultimately successful class.</p><p>The afternoon presented a completely different scene. First, we were surrounded by children asking for our autographs. Later, during the sixth-grade internet literacy class, I found myself delivering an entirely improvised lecture. I realized I had already covered topics like information bubbles, agenda-setting, and first principles in their “Reality” class earlier in the week. This time, Yan Yihang and I demonstrated hallucinations in large language models: we asked Kimi, a Chinese AI, how to “stir-fry screws.” We taught them how to frame effective questions online, choose the right search engines, and use appropriate keywords. Fortunately, I’ve grown comfortable generating content dynamically during class, avoiding moments where I’d have nothing to say.</p><p>As we walked back to our lodging in the evening, someone suddenly started running. Then, inexplicably, we all broke into a run. The wind was freezing, slicing across my face and ankles. By the time we stopped, my hands and feet were nearly numb, my ears stung, and we were all gasping for air.</p><p>Later that night, while showering, a thought struck me—something… else. I was recalling my explanation of linguistic meaning in the poetry class earlier that day, and I began pondering the difference between this kind of meaning and the “meaning of life.”</p><p>In linguistics, meaning arises when a symbol evokes a corresponding impression (the signified) in the mind—an impression that seems to justify the existence of the symbol itself. In other words, the connection between a symbol and its impression is the source of its meaning. But isn’t life, our daily experience, also composed of an immense network of symbols? Everything our senses perceive can be abstracted into symbols, which are immediately and instinctively transformed into impressions—or meaning—by our minds. This process of generating meaning within a vast symbolic network is continuous and unceasing.</p><p>So why do we still ask, <em>What is the meaning of life?</em></p><p>The answer seems to be that we are not satisfied with this kind of meaning. What we seek is something more transcendent—a kind of meta-meaning, where the entire network of symbols and their corresponding impressions points to something greater. This greater “signified” is what we refer to as the “meaning of life.”</p><p>But then I realized: the relationship between signifier and signified is culturally constructed, not inherently objective. In other words, the pursuit of the “meaning of life” is itself inherently meaningless because meaning is always a product of cultural context. As Wittgenstein put it, “Whereof one cannot speak, thereof one must be silent.” Everything that can be said has already been said; what remains is unspeakable.</p><h1 id="Day-6-November-29-2024"><a href="#Day-6-November-29-2024" class="headerlink" title="Day 6. November 29, 2024"></a>Day 6. November 29, 2024</h1><p>When we arrived at the school today, the younger students greeted us with excitement, while the older ones were quieter than usual. They knew this was our last day. During the morning sports activities, I stood on the sidelines, feeling a little detached. Did I manage to convey what I wanted to?</p><p>There’s a second-grader we’ve nicknamed “Mr.Supermale.” He often yells or bangs on his desk during class, refuses to play with others, and can be rough—shoving classmates aside if they block his view. During the sports session, we were organizing a three-legged race. When asked to pair up with another student, he shouted, “No! I hate you!” The rejected child ended up crying alone at the edge of the playground, comforted by the teachers.</p><p>Watching this unfold, I suddenly realized it was time to apply what I’d learned in my sociology course earlier this term. I crouched down beside Mr.Supermale, meeting him at his level, and started asking him gentle questions. At first, he was reluctant to respond, but soon he lowered his head and began to talk.</p><p>He told me his grandmother had passed away, and his parents were always away working. At home, it was just him, his grandfather, and a few older brothers. When I asked if he liked his dad, he nodded and said, “Yes, I do.”</p><p>In that moment, it struck me that he would likely grow up to join the same laboring workforce as his parents. The thought weighed heavily on me, and as various reflections tangled in my mind, one question persisted: <em>Can I truly change anything?</em> Even as the sports session ended, this question lingered.</p><p>At lunchtime, our teaching team’s table was surrounded by students waving scraps of paper and notebooks, all asking for our autographs(we had no idea about why). Reluctantly, we began signing. At one point, I received a blank sheet of paper and looked up, only to freeze in surprise.</p><p>It was Mr.Supermale.</p><p>He glanced up at me briefly, then quickly lowered his head.</p><p>I took the pencil he handed me and signed my name on the paper. He grabbed it back, still avoiding eye contact, and slipped out of the crowd.</p><p>I didn’t have time to process this moment right away—more children were pressing paper into my hands. But when the crowd eventually dispersed, I stood still, realizing something profound: out of all ten members of our teaching team, he had only asked for my signature.</p><p>In a flash, it all made sense. Mr.Supermale wasn’t “supermale” or unruly; he simply needed attention. Someone to kneel down and ask him a few questions. That’s all it took.</p><p><em>Was this teaching program meaningful? Did I change anything?</em></p><p>In that moment, everything seemed to find its answer.</p><h1 id="Original-Chinese-text-if-you-can-read-Chinese"><a href="#Original-Chinese-text-if-you-can-read-Chinese" class="headerlink" title="Original Chinese text(if you can read Chinese)"></a>Original Chinese text(if you can read Chinese)</h1><p>2024 11 24<br>来到沂蒙。冷空气使我清醒了不少，也加重了我的思虑。我只有一周的时间来完成我想做的事。确切来说，四节课。对我来说，这几乎是有些沉重的：我想要做出……改变。我希望改变什么。这是我设计哲学课的初衷。为此，我必须进入他们的语境，了解他们对于学习和对于未来的看法，了解他们眼中的世界，了解他们正行驶在哪一条轨道。然后，做出行动，改变什么。用话语，以一个老师的身份。虽然这不是我第一次上台授课，但对于这个身份，我依旧有些无所适从。我明天有两节课，一节人工智能音乐，一节现代诗歌。先把这两节备好，适应好老师的角色，再说。</p><p>2024 11 25<br>中国周第二天。除去我自己的人工智能音乐课和诗歌课，我还作为助教参与了一节经济学启蒙和三节英语发音课。英语发音是很新颖的教学体验：我们在课上探索英语作为一门表音文字的特点。比如说，在讲到spark时, 我们通过让学生想象火焰燃烧木头的声音来说明这个词的发音与它描述对象的关联。以及，spoon 和 fork 的发音与它们描述对象的形状特点的微妙联系。意料之外地，由于一年级小学生还没有学过英语，教学遭遇了空前的困难，有好几次我们差点冷场。好在，我最终通过临场发挥和即兴演说能力避免了完全的失败。</p><p>而至于我自己的课，事实上也发生了意料之外的状况。在上午作为助教参与经济启蒙课程的时候我受到了周子墨教学方式的启发，在课间的十分钟里重新设计了整节课。具体来说，我删除了一部分诗歌赏析，转向对于一般的诗歌概念的研究：诗歌是什么? 我们为什么要写诗？什么是抒情？为什么我们需要间接抒情？什么是陌生化？我从具体的诗歌（《送元二使安西》、《鸟鸣涧》、《天狗》）入手，逐步展开对于这些问题的探讨和论述。课堂的后半部分是诗歌鉴赏，我带着五年级的同学们朗读余秀华、顾城、树子、丝绒陨等作家的经典作品，并邀请他们在一张纸上写下他们对于其中一首诗的感受：这种感受不一定是文字，我在课上鼓励他们把他们眼中的诗歌绘画出来。</p><p>第二节，人工智能音乐。我很快便发现这些孩子对于人工智能近几年的进展几乎全然不知情，于是花了一些时间向他们介绍Chat GPT, Suno等近些年在各个领域涌现的大模型。在此之后我给他们播放了一些在Udio 官网上找到的音乐片段，并介绍了免费使用人工智能音乐模型（Udio 免费额度）的方法。在此之后，我给每个学生发了一张纸，邀请他们写下一个关于歌曲的想法。下课的时候有一些同学完成，剩余的留作作业。小学生的文笔稚嫩，但当中我能看到一些可贵的东西。</p><p>2024 11 26<br>或许是昨天上课时精神的高度集中，一种困倦从早晨起来便笼在我的心头。前往学校的路上，抬起头，只看到太阳强烈，迷我的眼。冷风叫我清醒了一些，但它没法吹散我神经深处尖叫着的疲惫，而这种疲惫唤起了我的担忧：去到学校的第一节课就是我的课，并且是很重要的课：哲学。</p><p>到学校之后，距上课还有十多分钟。我在图书室的桌上趴了下去，但恍过神，便已经站在台前，严亦航站在我旁边，而我需要开口说话。这一时刻，我想起了无数个在舞台上，把乐器举至嘴边，下一拍就要开始独奏的瞬间。我同时想起来了在这种瞬间的最好做法：我顿了顿。</p><p>然后开始说。</p><p>“我们今天来讲一门大家平时可能不会接触到的学科。”说着，我在黑板上写下两个字：哲学。“有同学之前听过这个学科吗？”众人摇头。“好。”我接着说，“哲学是什么？也许你们以后会看到很多不同的关于哲学的定义。但在我看来，哲学是一种追问。追问什么？追问那些看上去不值得追问的东西。就好像质疑，那些可疑的东西并不需要我们去质疑，真正需要质疑的是那些不可疑的东西。”</p><p>说完这段话之后，我突然找到了什么：对，镇静。慢条斯理。自信。我知道我在讲述什么。我明白我可以把它们表达清楚。我便接着说。什么是本质？人的本质是什么？对于每种想法而言，死亡意味着什么？我们有什么相信灵魂的理由？我发现我可以掌控课堂的节奏。我穿插着互动，讲述的过程中台下的同学不时发出疑问，有时也惊呼，更多是先笑着，但接着便陷入沉思。讲着，我也醒了大半，语气有时也激动了些，在黑板上涂画，一次粉笔末落地，下课铃便响起。</p><p>走出教室，抬头便看到窗外的光。站定，确认了那阳光强烈。</p><p>2024 11 27<br>早起时的体感是很糟糕的。去学校的路比前几天都漫长一些，我时不时便打个趔趄，紧接着就有一阵耳鸣。耳鸣淡去之后，似乎还有些在脑海打转，又好像已经彻底消失，只是头脑里留了一些似有若无的印象。到最后已分辨不出到底有没有。</p><p>到了学校，有些冻伤的手如往常开始发疼。我无意说话，进了图书室就开始睡。手表的闹钟把我叫起来的时候，便起身去三年级。今天上午分别有三年级和四年级的互联网使用课，我们从搜索引擎之间的区别讲起，经过了短视频的信息茧房、观点固化和议程设置问题，最终来到大语言模型的幻觉问题。我能感觉到，尤其是我在讲在短视频的时候，学生们听得非常认真。</p><p>下午是重头戏，有五年级的诗歌课和六年级的哲学课。在诗歌课上，我先是在黑板上抄了几首诗（赵丽华的《一个人来到田纳西》和威廉姆斯的《便条》），并询问同学们这些句子算不算诗。在引起一些争执之后，我们发现：诗到底是什么？这个问题，似乎没有那么简单。由此引出了诗歌的本质主义和反本质主义。在此之后，我们开始讨论散文诗和“诗意”的问题。在列举了一些散文诗之后，我们终于进入了关于文学性的讨论。我主要从三个角度展开了文学性：语言，符号；感情，形象；想象，虚构。遗憾的是，由于我讲得比较激动，忘记了时间管理，最终只勉强完成了第一个角度的讲述。我先是通过《便条》向同学们解释诗歌如何通过形式和音韵来传达美，然后通过北岛的《生活》解释了语言的非指涉性的概念。随后，我从语言学的角度说明了语言的问题：语言有能指和所指，即符号和意义。如果我们先有了一个意（所指），或者说一个灵感或者感觉，但是没有办法找到对应的能指（符号），就会出现言不尽意的情况。对于这种情况，提出了两种解法：借助自动写作或者借助随机性。我解释了自动写作的局限性，接着在课上进行了拼诗的活动：班上一半的同学写上半句，剩下一半写下半句。因为突然发现距离下课只有三分钟，我紧急解释了为什么这么做，也就是借助随机性，有时可以解决言不尽意的情况，即，如《文心雕龙》说的，意翻空而易奇，言证实而难巧。那么，要怎么让语言巧呢？那就是要探寻非常规的语言组合。要探寻非常规，随机性就是一个很好的工具。接着，下课铃就响了。没想到的是，同学们一哄而上，团团把我围住，问我的名字（我之前让他们叫我山羊老师，因为这是我的外号）、接下来还有没有诗歌课、能不能把剩下的部分讲完、我自己会不会写诗，等等。这让我感到高兴，却也有些遗憾。高兴的部分是，这说明我的课讲得不错；遗憾的部分是，我接下来确实没有诗歌课了。临走之前，我看到上次留在讲台上的那本余秀华的诗集《我们爱过又忘记》，心里便升起一些宽慰：我留给这个班的不仅仅是这两节课。</p><p>接下来是六年级的哲学课，主题是真实。我先是给同学们展示了几张人脸，并让他们猜测这些人是哪个国家的人。随后话锋一转，告诉他们这些人哪国人都不是，都是AI 生成的。在分析了刚刚发生的事情之后，我在黑板上写下了我认为是这节课最重要的一句话：“看上去越真实的东西，往往越具有欺骗性。”课堂的余下部分，就是我用大量的例子说明各种媒介是怎么动用他们的力量来引导、欺骗和操控人们的思想，并专门针对文学真实的问题展开了讨论：我引入了“诗意的真实”这一概念，并说明文学并不仅仅是模仿现实，有时候它也可以对现实施加强烈的影响。事实上，这次支教我真正的目的正是这节课的目的：去揭穿谎言，去激发思辨。而这一点，意料之外地，已经在之前其他年级的互联网使用课上完成了不少。</p><p>2024 11 28<br>支教第五天，充满着意想不到。比如，早上五年级的互联网使用，我和严亦航在讲的时候，临沂市教育局局长突然走进了教室。再比如，原以为只有两节课，但是给五年级讲完互联网使用，给六年级讲完诗歌之后，我们突发被要求带一年级的剪贴画课，而我们甚至找不到双面胶和剪刀。好在，我们通过在教学楼跑来跑去，在上课前两分钟找到了教具并成功赶到了教室。然而，刚进教室，就有三个小孩在哭。一时，由疲惫和经验堆积起的稳重也失了效用，我们变得有些手足无措。勉强安慰了小孩之后，我们带着他们去学校的各个地方捡树叶，然后回到教室把捡到的树叶贴在纸上组成画面。接着，给他们水彩笔来丰富他们的作品，最终拍了合照，还算圆满结束。</p><p>下午是另一幅光景。先是所有人被小孩围着要签名，然后是在六年级的互联网使用课上全程即兴演讲，因为我发现我已经在之前的“真实”那节课上跟他们讲过信息茧房、议程设置、第一性原理这些东西了。我和严亦航在课上给他们演示大语言模型的幻觉：我们问Kimi (一个中国大语言模型) 爆炒螺丝钉的做法；我们教他们在互联网上正确提问；使用正确的搜索引擎和关键词；等等。好在我已经能够把握课堂的生成，不至于找不到东西说。</p><p>下午，走路回住处的时候，不知道是谁突然开始跑步。接着，莫名其妙地，我们所有人都跑了起来。风很冷，割过我的脸和脚踝。到最后我的手脚都几乎失了知觉，耳朵也疼着，我们终于停下来，大声喘气。</p><p>晚上洗澡的时候，突然想到了一些……别的什么。那时，我在回忆我白天诗歌课上讲的语言学中意义的生成，突然开始思考此处的意义和“人生有没有意义”的意义的区别。在我理解中，语言学所讲的意义是人接触到符号时脑海中浮现的对应的印象（所指？），就好像这个符号就是为了这个印象，或是感觉而存在；印象就是符号存在的理由，也就是意义。也就是说，从符号和印象的对应中，我们可以找到符号的意义的来源。可是，人生，也就是我们的日常生活，不也是由一张巨大的符号网络构成的吗？我们的感官能提供的一切，都可以抽象为符号，而这些符号输入，马上，就被我们本能性的反应转换为印象，或者说意义。也就是说，我们每时每刻都在一张庞大的符号网络中生成意义，这个过程几乎是源源不断的。那么，我们为什么还会问出“人生有没有意义”的问题？</p><p>答案似乎是，我们并不满足于这种意义。我们要追求的是某种更为崇高的东西，即，生活这张符号网络以及对应的所指们作为一个整体，再指向一个新的所指，这个新的所指才是我们所说的“活着的意义”。我接着就想到，能指和所指的关系本就是由文化来规定的，而不是客观存在。换言之，对于“活着的意义”的追问本质上是无意义的，因为意义本就产生于文化规定。能够被言说的都已经被言说了，剩下的都不可说。</p><p>2024 11 29<br>今天到了学校，低年级的孩子们看到我们都很高兴，但高年级的同学们则比往常更沉默些。这是因为我们今天就要走了。上午的体育活动，我站在一旁看，也有些失神。我有没有把我想传达的传达好？</p><p>二年级有一个学生，被我们称作“超雄哥”。他常常在课上尖叫、拍桌子，不愿意和别的同学玩，在和别的同学一起看一个东西，而他自己没有很好的角度时，他会粗鲁地把那同学推开。体育活动的时候，我们在组织两人三足，他不想和另一个同学组队，便尖叫：“不要！我讨厌你！”，被他拒绝的那个同学因为没有人组队，最终躲在操场一边哭，老师们都上去安慰他。看到这一幕的时候，我忽然意识到我这半个学期学的社会学是派上用场的时候了。我在“超雄哥”旁边蹲下来，看着他，开始问一些问题。起初他有些不愿意回答，但很快就耷拉着头跟我说了起来。我了解到，他的奶奶死了，而父母都在外面干活，因此家里只有爷爷和几个哥哥。我问他喜不喜欢爸爸，他点了点头，说：“喜欢。”这时，我突然想到，很大概率，他以后也会成为这些“干活的人”中的一员。因此，不同的思绪在头脑中纠缠。我真的能改变什么吗？一直到体育活动结束前，我的脑海里萦绕着这个问题。</p><p>中午吃饭的时候，学生们把我们支教队伍的桌子团团围住，一张张小纸条和笔记本挥舞在空中，要我们签名。不得已，我们都签起了名字。某一时刻，我接过一张纸，抬头一看，却愣住了。</p><p>那是超雄哥。他抬头看了我一眼，发现我正在看他，就马上把头低下去了。</p><p>我接过他递给我的铅笔，在那张空白的纸上签了我的名字。他拿过那张纸，低着头，便离开了拥挤的人群。我则来不及细想这件事，马上又被新的纸条包围。人群都散去之后，我站在原地，意识到我们支教队伍的十人里，他只要了我的签名。一个念头在我脑海闪过。他不是超雄。他只是需要关注而已。就像那样，蹲下来，问一些问题。而这正是我做的。</p><p>支教有意义吗？我改变了什么吗？这一切都好像在那一个瞬间得到了解答。</p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
     
     
-    <categories>
       
-      <category>one-time activities</category>
       
-    </categories>
+    <summary type="html">&lt;p&gt;For me, the journey of China week means a lot. Although in essence it was no more than a voluntary teaching event that lasted a week, the</summary>
+      
     
     
-    <tags>
-      
-      <tag>sociology</tag>
-      
-      <tag>philosophy</tag>
-      
-      <tag>literary theory</tag>
-      
-      <tag>artificial intelligence</tag>
-      
-    </tags>
+    
+    <category term="one-time activities" scheme="https://thedarkgoatlord.github.io/categories/one-time-activities/"/>
+    
+    
+    <category term="sociology" scheme="https://thedarkgoatlord.github.io/tags/sociology/"/>
+    
+    <category term="philosophy" scheme="https://thedarkgoatlord.github.io/tags/philosophy/"/>
+    
+    <category term="literary theory" scheme="https://thedarkgoatlord.github.io/tags/literary-theory/"/>
+    
+    <category term="artificial intelligence" scheme="https://thedarkgoatlord.github.io/tags/artificial-intelligence/"/>
     
   </entry>
   
-  
-  
   <entry>
     <title>About this Blog</title>
-    <link href="/2024/12/06/hello-world/"/>
-    <url>/2024/12/06/hello-world/</url>
+    <link href="https://thedarkgoatlord.github.io/2024/12/06/hello-world/"/>
+    <id>https://thedarkgoatlord.github.io/2024/12/06/hello-world/</id>
+    <published>2024-12-06T02:57:58.672Z</published>
+    <updated>2024-12-10T10:30:11.980Z</updated>
     
     <content type="html"><![CDATA[<p>This is my personal blog for recording thoughts and events I’ve been through. Up to now, I’m still trying to finish the ‘about’ page so I and get moving to other contents.</p><p>The past 2 years were simply too intense for me. I’ve been through a lot and I simply need time to take them all down.</p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
     
     
+      
+      
+    <summary type="html">&lt;p&gt;This is my personal blog for recording thoughts and events I’ve been through. Up to now, I’m still trying to finish the ‘about’ page so I</summary>
+      
+    
+    
+    
     
   </entry>
   
-  
-  
-  
-</search>
+</feed>
