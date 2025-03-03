@@ -4,60 +4,16 @@
   
   
   <entry>
-    <title>BP Algorithm Explained(Keynote Presentation)</title>
-    <link href="/2025/02/26/BP-Algorithm-Keynote-Presentation/"/>
-    <url>/2025/02/26/BP-Algorithm-Keynote-Presentation/</url>
+    <title>As Students, Perhaps We Need to “Walk Away”</title>
+    <link href="/2025/03/03/As-Students-Perhaps-We-Need-to-%E2%80%9CWalk-Away%E2%80%9D/"/>
+    <url>/2025/03/03/As-Students-Perhaps-We-Need-to-%E2%80%9CWalk-Away%E2%80%9D/</url>
     
-    <content type="html"><![CDATA[<p>Here is the keynote file that I used this Monday to illustrate the Back-Propagation(BP) algorithm. The keynote itself was made last year, when I was trying to understand the algorithm by my self.</p><p>What fascinated me about the neural networks was not purely the algebraic part, though. It was the geometric part. It was the moment when I realised I could think of neural networks as non-linear transformations, more specifically, basis changes, so that the problem becomes linear separable in the new space.</p><p>Maybe I’ll write about this later if I have the time.</p><p><img src="/pics/BP1.jpg"><br><img src="/pics/BP2.jpg"><br><img src="/pics/BP3.jpg"><br><img src="/pics/BP4.jpg"><br><img src="/pics/BP5.jpg"><br><img src="/pics/BP6.jpg"><br><img src="/pics/BP7.jpg"><br><img src="/pics/BP8.jpg"><br><img src="/pics/BP9.jpg"><br><img src="/pics/BP10.jpg"></p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-    
-    
-    <categories>
-      
-      <category>artificial intelligence</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>activities</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>与失败同行</title>
-    <link href="/2025/02/21/%E4%B8%8E%E5%A4%B1%E8%B4%A5%E5%90%8C%E8%A1%8C/"/>
-    <url>/2025/02/21/%E4%B8%8E%E5%A4%B1%E8%B4%A5%E5%90%8C%E8%A1%8C/</url>
-    
-    <content type="html"><![CDATA[<blockquote><p>从苦涩的失败中拼凑自我。</p></blockquote><p>昨天参加了一场算法竞赛，CCC的Senior组。考试一共三个小时，半个小时写完了前两题之后，剩余的两个半小时我一道题都没写出来。我写了很久，是的，但是看着0&#x2F;15的得分，粘稠而冰冷的无力感自然地爬上身体，像饥饿的蛇。考试结束前十分钟，我意识到无论如何也无法挽回了，所以看了看电脑，看了看窗外，看了看身边的同学们。沉默片刻。然后起身，径直走出了考场。也许我平时应该多写点题的，也许我应该多看看线段树，也许我应该学A*算法，或者一开始就想到枚举的策略。这些声音在我走出考场的一刻蜂拥而至，一瞬间填满了我的脑海。</p><p>对于这种感觉，我并不陌生。上学期我参加了HiMCM，一个数学建模比赛。我们队伍付出了大量时间，非常认真地满足了题目中的所有要求，并且使用了相当多样的方法：我们用了时间序列分析、微分方程、卷积神经网络和多项式回归，并且解释得很详细，组织得能称得上流畅易读，跑出来的结果也不错，尤其是我写的时间序列分析得到了和现实数据一模一样的结果。我们自己和我们的老师都对这篇论文抱有一些期待，但最后出来只有M奖。我们别无他法，也只能接受这个结果。</p><p>前年我参加了AMC10。我在考前做了相当多准备，总分140，我平时刷题能基本稳定在100到110分左右，最后也考到了106。按照往年的分数线，这已经有奖了。但是最后分数线出来居然最低也一百一十多，Honor Roll Distinction的线更是到达了139.5。再者，我身边的一个同学甚至拿到了AB卷双满分，两个140。这还是AMC吗？我一时间很困惑，直到我听说了泄题的事情。</p><p>我成长的过程充满了这样大大小小的失败。我不会说我沉湎于这些失败，但我还是会在每一个失败的时刻感到有什么重物落地似的————碎了，然后便不得不弯下腰，把那些碎片小心翼翼地捡拾起来，拼回自己身上。</p><p>照常，到这里，我应该话锋一转，教导大家如何用积极的目光看待失败：把它看作是一种经验的积累或者试错，等等。套话说起来总是好听。但不解渴。毕竟，那些理想与现实的落差，一次次反复的，在努力过后迎来的失败的疼痛与失落与困惑，是沉重的，需要由人的心来承担和化解，而非成功学轻飘飘的三言两语。我无意这么做。</p><p>我想谈一谈我是如何与失败同行的。简单来说，我和它打交道的主要方法是“程序”。也就是说，日常生活中的固定事项。我给自己的预设是：不论发生了多么离谱而难以接受的失败，这都不会影响我坚持推进我日常中的所有规律事项。比如散步、练琴、早睡早起。</p><p>这些日常事项类似于一种支撑结构，在我遭遇打击而失去平衡时，它们可以支撑我重新站稳，然后继续前行。如此，我就可以继续投入到工作和学习生活中，并说：“失败没什么大不了的，因为我还在前进。”</p><p>也正是因此，我才能做成那些我已经做成的事情：雅思7.5均7、一次次的乐团演出、学校的全额奖学金……也许并不是每一项都被定义为世俗上的成功，但是我知道</p><ol><li>我坚持了，并且得到了结果。</li><li>我的前进并不在得到结果之后就停止。</li></ol><p>对我来说，这就足够。</p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+    <content type="html"><![CDATA[<p>Before last semester ended, my teacher told me that I must participate in an algorithm competition.</p><p>I don’t like algorithm competitions.</p><p>I like other things.</p><p>I like writing—to express myself. I like the French horn—I’ve played it for years. I like reading novels because they allow me to think. I like literary theory because it helps me read novels better. I enjoy walking. I enjoy studying mathematics (though I learn slowly). I enjoy photography—it encourages me to find rhythm and order in the chaos of daily life. And there are many more things like these that I enjoy.</p><p>But no. My teacher told me otherwise: none of this is useful. You shouldn’t write. You shouldn’t play the horn. You shouldn’t study literary theory. You shouldn’t read novels. All of that is a waste of time. Mathematics is acceptable, but shouldn’t you learn it faster? Think about your entrance exams. And photography? What a joke. No—you should compete in the algorithm contest. Because it is a bargaining chip for getting into a top university. This competition, not your messy little hobbies—only this competition can prove to others that you are successful, outstanding, competent.</p><p>I am not trying to criticize my teacher or this algorithm competition itself. Instead, I see them as symbols. The teacher symbolizes the dominant discourse in the education system; the competition symbolizes a homogenized meritocratic race. It could just as well be the college entrance exam, a job promotion, or even marriage. In my experience, the algorithm competition was treated as an unquestionable given—though it never should have been. Anyone who failed in it, or refused to participate, was branded a “loser” and dismissed accordingly.</p><p>I felt, vaguely but deeply, that this was an erosion of me—me, as a person, as someone living a life of my own. I was no longer “me,” a human being who could stand before others as an equal, but a thing, manufactured to complete a mechanical series of exams; a prisoner, forced to kneel before the system for the sake of university admission.</p><p>I dislike algorithm competitions. But I must compete.</p><h1 id="The-Discourse-Behind-the-Competition"><a href="#The-Discourse-Behind-the-Competition" class="headerlink" title="The Discourse Behind the Competition"></a>The Discourse Behind the Competition</h1><p>Earlier, I used a term: meritocracy. I’d like to expand on that.</p><p>Meritocracy is a value system that judges people based on their abilities and achievements. Its core logic is: success is equivalent to social status and wealth, and social status and wealth depend on one’s “merit”—that is, ability and talent. In the education system I have experienced, this logic roughly translates to: success is equivalent to getting into a prestigious university; a prestigious university depends on exam scores; exam scores depend on ability and talent.</p><p>From the moment students enter school, this idea hovers over them like a curse. Students are forced to “prove” their worth through one exam after another. In this barren framework of values, they are compelled to self-exploit endlessly in pursuit of external validation, while brainwashing themselves into believing: “This is what I want.”</p><p>In my view, students enter algorithm competitions for two main reasons.</p><h2 id="1-The-Illusion-of-Deferred-Gratification"><a href="#1-The-Illusion-of-Deferred-Gratification" class="headerlink" title="1. The Illusion of Deferred Gratification"></a>1. The Illusion of Deferred Gratification</h2><p>In 1994, sociologist Xiang Biao conducted a study on migrant workers in China’s Pearl River Delta. He found that most workers would switch jobs after just two or three months, even though doing so did not improve their conditions. Interviews revealed a common mindset:</p><blockquote><p>“I just want to earn money as quickly as possible. Once I have enough, I’ll never have to be a factory worker again. I’ll go back home and open a small restaurant or shop. I’ll become a different kind of person.”</p></blockquote><p>Migrant workers looked toward the future. They believed that once they had their restaurant, nothing else would matter. So when they faced conflicts at work, their instinct was not to resolve them but to flee.</p><p>Now, let’s translate this into education: replace “working” with “exams,” replace “restaurant” with “personal autonomy,” and replace “avoiding conflicts” with “self-exploitation.” The result:</p><p>Students believe that getting into a top university will bring them freedom and self-fulfillment, so they dismiss everything else as unimportant. When faced with the pressures of life—inequality, discrimination, anxiety, frustration, depression—they choose to remain silent, to endure, to compromise, to exploit themselves in a cycle of avoidant attachment, whispering to themselves: “This is only temporary.”</p><p>Meanwhile, the system reinforces the pressure: Look at those top students. They succeeded because they were passionate and worked hard. You should be like them. You should work harder. Do what a ‘good student’ is supposed to do: finish this set of problems, then move on to the next.</p><p>Any rational student should find this rhetoric contemptible.</p><p>But in the end, the motivation remains: compete in the algorithm contest—even if all it offers is an illusion.</p><h2 id="2-The-Hummingbird-Metaphor"><a href="#2-The-Hummingbird-Metaphor" class="headerlink" title="2. The Hummingbird Metaphor"></a>2. The Hummingbird Metaphor</h2><p>In a recent interview, Xiang Biao introduced a metaphor: many people in modern Chinese society are like hummingbirds—flapping their wings frantically, not to get anywhere, but just to stay suspended in the air, to avoid falling.</p><p>In the language of my generation, this is “involution”. Everyone is trapped in a single, narrow value system, making endless, meaningless efforts—not because they want to, but because everyone else is doing it. The moment you stop competing, you fall behind, you are abandoned. And then the system retaliates: teachers, parents, classmates, school administrators—all of them piling on pressure, feeding discrimination, letting it take root in every corner of life.</p><p>In the first case, students compete out of desire. In the second, they compete out of fear. The difference is that in the first case, they at least have a dream, however illusory. In the second, they are merely running to avoid falling.</p><p>Neither is ideal.</p><p>Both are shackled to the same chain: success equals a prestigious university; a prestigious university depends on scores; scores depend on ability. This shallow, singular, utilitarian, arrogant system of meritocracy systematically crushes all “failures.” It elevates so-called “winners” to be worshipped, convincing them that their success is solely due to their passion and effort. Meanwhile, it throws “losers” away like garbage—making them believe they simply didn’t try hard enough.</p><p>So, as students, do we have any other options?</p><p>A Possible Way Out</p><p>On January 22, 2025, YouTuber Lao Jiang proposed an alternative narrative in a video:</p><blockquote><p>“I think it should be based on individual value and self-actualization. That is: my worth and self-satisfaction do not come from making a significant contribution to society, nor from earning more money or living better than others. Rather, they come from being different from others. I have my own unique value—my own experiences, irreplaceable by anyone else… My value can come from intellectual pursuits, artistic expression, subcultures, ideologies—whatever allows me to cultivate and refine my personal essence.”</p></blockquote><p>To me, this is a signal.</p><p>Perhaps, it is time.</p><p>As students, we must walk away.</p><p>Walking away does not mean rejecting reality wholesale. It means recognizing its absurdity, breaking away from it, and constructing our own values. It means asking: Who am I? How am I different from others? What does success mean to me? How do I achieve it? And—if you dare to answer—why am I alive?</p><p>I am a writer. A high school student. My writing separates me from others, even if I am no better than anyone else. Of course, I have many other traits—my idealism, my history of complex relationships, my slow but steady progress in playing the French horn. To me, success is simply being content with my own life.</p><p>I will still take part in the algorithm competition. We will all face countless such contests in life. But from this moment on, we can at least say:</p><p>My success is not defined by this rotten system. I have my passions, my character, my independent mind. When I stand before this competition, I am not an object.</p><h2 id="I-am-a-person"><a href="#I-am-a-person" class="headerlink" title="I am a person."></a>I am a person.</h2><p>Original text in <a href="https://thedarkgoatlord.github.io/2025/01/25/%E6%95%99%E8%82%B2%E7%9A%84%E5%8F%8D%E6%80%9D%E5%92%8C%E5%8F%AF%E8%83%BD%E7%9A%84%E5%87%BA%E8%B7%AF/">Chinese</a>, translated by ChatGPT, no manual editing done since I trusted it.</p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
     
     
     <categories>
       
       <category>random thought</category>
-      
-    </categories>
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>作为学生，也许我们需要“出走”。</title>
-    <link href="/2025/01/25/%E6%95%99%E8%82%B2%E7%9A%84%E5%8F%8D%E6%80%9D%E5%92%8C%E5%8F%AF%E8%83%BD%E7%9A%84%E5%87%BA%E8%B7%AF/"/>
-    <url>/2025/01/25/%E6%95%99%E8%82%B2%E7%9A%84%E5%8F%8D%E6%80%9D%E5%92%8C%E5%8F%AF%E8%83%BD%E7%9A%84%E5%87%BA%E8%B7%AF/</url>
-    
-    <content type="html"><![CDATA[<p>我的老师在上一学期结束之前告诉我，我必须去打一场算法竞赛。</p><p>我不喜欢打算法竞赛。</p><p>我喜欢一些别的东西。</p><p>我喜欢写作，为了表达。我喜欢圆号，我吹了很多年。我喜欢看小说，因为这允许我思考。我喜欢文学理论，这让我更好地看小说。我很喜欢散步。我喜欢学数学（尽管我学得很慢）。我喜欢摄影，它鼓励我在杂乱的日常生活中寻找韵律与节奏。我还喜欢一大堆的诸如此类。</p><p>不。然而，我的老师如是说：这些东西都没有用。你不应该写作。你不应该吹圆号。你不应该学文学理论。你不应该看小说。这些全是浪费时间。数学倒是应该学，但是你难道不能学得更快一些吗？想想你的入学笔试。摄影又是什么鬼？——不。你应该打这场算法竞赛。因为它是你进入头部大学的一种筹码。这场算法竞赛，而不是你的那些乱七八糟的爱好：只有这场算法竞赛能够向他人证明你是一个<strong>成功</strong>的，<strong>优秀</strong>的，<strong>有能力</strong>的人。</p><p>这里，我并不想指向我的这位老师或者这场算法竞赛。我想把它们作为一种符号来看待。老师符号了教育系统中的主流话语，而算法竞赛符号了一种同质化的优绩主义竞争。它可以是高考，可以是升职，可以是婚恋。<strong>算法竞赛，在我经历的教育中是一种理所当然，尽管它根本不应该是</strong>。任何在算法竞赛中失败或者不参与算法竞赛的人，都会被打上“失败者”的标签，被统一地歧视。</p><p>我隐隐地感觉到，这是对我，我这个人，我所过的生活，的一种践踏。我不再是“我”，一个可以站在任何人面前的“人”，而成为了一个为完成一套机械考试程序而设计出的“物”，一个为了大学申请而不得不向体制下跪的“囚”。</p><p>我不喜欢算法竞赛，然而我不得不参加。</p><h1 id="算法竞赛背后的话语"><a href="#算法竞赛背后的话语" class="headerlink" title="算法竞赛背后的话语"></a>算法竞赛背后的话语</h1><p>在前文的描述中，我使用了一个词：“优绩主义”，这里我想略作展开。</p><p>优绩主义，指的是以能力和成就为评判标准的价值体系。它的根本逻辑是：<strong>成功等价于社会地位和财富，而社会地位和财富取决于人的“优绩”，也就是能力与才能</strong>。在我所经历的教育中，它可以被粗略地翻译为：成功等价于名牌大学，名牌大学取决于分数，而分数取决于能力与才能。</p><p>从迈入校门的一刻起，这句话就如同一个诅咒，在每一个学生的头顶不断地盘旋。学生，不得不在一场又一场考试中尝试“证明”自己的才能，也就是说，在这一贫瘠的价值标准里通过无止尽的自我剥削来找寻他人的认同，并不断自我洗脑：“这正是我想要的。”</p><p>在我眼中，学生参加算法竞赛，主要有两种动机。</p><h2 id="参加竞争的第一种动机：延迟满足幻想"><a href="#参加竞争的第一种动机：延迟满足幻想" class="headerlink" title="参加竞争的第一种动机：延迟满足幻想"></a>参加竞争的第一种动机：延迟满足幻想</h2><p>1994年，项飙在中国南部的珠江三角洲对农民工进行了社会调查。其中一个发现是：一般来说，农民工在同一企业里两到三个月后就会跳槽，尽管这种跳槽并不会带来任何处境上的改变。经过访谈，项飙发现，相当一部份人跳槽的原因是<strong>矛盾</strong>，比方说在车间里和主管的矛盾或者和室友的矛盾，哪怕仅仅是很小的矛盾。</p><blockquote><p>“他们主要的心态就是我就是要尽快地赚钱。我挣完钱之后，哪一天就不用再去当农民工，就可以回家开一个小饭馆，或者一个小商店，完全成为另一种人。”</p></blockquote><p>农民工望向的是未来。他们梦想着未来能够开一家小饭馆，因此认为别的都是不重要的。以至于他在面临生活当中的问题时，想到的不是解决，而是一走了之。这里，我们大可以把它翻译成教育的版本。把打工换成应试，把饭馆换成个人意志，把回避矛盾换成自我剥削。由此，这个句子变成了：学生们相信名牌大学将带来自由和个人意志的实现，因此认为别的都是不重要的。<strong>以至于在面对眼下的生活中出现的矛盾、不平等、歧视、压力、焦虑、愤怒、苦闷、抑郁时，我们选择在沉默中继续我们夹杂着回避型依恋情结的妥协与自我剥削，并自我洗脑：“这只是暂时的。”</strong> 同时，结构也在不断给我们施压：看看那些取得傲人成绩的学长&#x2F;学姐吧，他们取得了成功，因为他们热爱，他们努力。你应该成为那样的人，你应该更加努力，去做那些“好学生”应该做的事情：把这套题刷完，接着再刷一套。当然，任何一个拥有正常理性的学生都应当对这种话语感到鄙夷。</p><p>但总之，这种动机可被概述为：去参加那场算法竞赛，哪怕它给你许诺的仅仅是一个幻觉。</p><h2 id="参加竞争的第二种动机：蜂鸟比喻"><a href="#参加竞争的第二种动机：蜂鸟比喻" class="headerlink" title="参加竞争的第二种动机：蜂鸟比喻"></a>参加竞争的第二种动机：蜂鸟比喻</h2><p>项飙在<a href="https://www.bilibili.com/video/BV1tS421K7g1/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=a11672ab4b7422a8bd5b681f29388dba">一档节目</a>中提出了一个比喻：当今中国社会的许多人就像蜂鸟，不断地震动翅膀，不是为了去哪里，而只是为了悬在空中，不至掉下去。</p><p>按照我们这一代人的语言来说，这就是“内卷”。所有人在一条单一的价值体系里做着无意义并且无尽头的努力，不是因为想去什么地方，而是周围的人都在这么做。一旦停止竞争，就会马上被“甩开”，被抛弃，紧接着社会生活会出现极大的问题：老师、家长、同学、校长…… 压力与歧视会极快速地生长起来，变成一株枝繁叶茂的大树，扎根在生活的每一个角落。</p><p>在第一种情况中，学生参与竞争的动机是欲望，而第二种的动机是恐惧。区别在于，在第一种情况中，学生具有某种对于未来生活的向往，而在第二种情况中，学生单纯是害怕坠落。我会说前者要稍好一些，但也仅仅是五十步笑百步。两者其实都建立在那条逻辑链上：成功等价于名牌大学，名牌大学取决于分数，而分数取决于能力与才能。这种浅薄的，单一的，功利的，优绩主义的，傲慢的社会价值体系平等地歧视每一个“失败者”。它使得所谓“成功者”变得万人追捧，以至于认为自己的成功源于自己的热情和努力；同时把“失败者”当作垃圾处理，还使他们以为是自己不够努力。</p><p>那么，作为学生，我们还有什么别的选项吗？</p><h1 id="可能的出路"><a href="#可能的出路" class="headerlink" title="可能的出路"></a>可能的出路</h1><p><em>老蒋巨靠谱</em>在2025年1月22日发布了<a href="https://b23.tv/xKc2aLE">一期视频</a>，提到了在如今的时代背景下一种可能的替代性叙事。以下是他的原文。</p><blockquote><p>“……我认为它应该是建立在个体价值之上的，自我实现式的叙事。也即是：我为什么有价值，我为什么对自己满意，既不是因为我对社会作出了什么很不一样的贡献，也不是因为我比别人挣得多，过得好。而是因为我和别人<strong>不一样</strong>。我有独属于自己的差异化和内生的价值，有独属于我自己的，宝贵的，无法被任何他人替代的生命体验和个体经历。……它的根可以是智识性的思考，可以是艺术性的美学体验和审美体系，也可以是某种亚文化或者意识形态化的东西。……比如说我发现我有某些方面的才能，这种才能可能不是精彩绝艳，它可能只是中人之资，但是我在这个领域上可以实现内部的日益精进。我可以做出和别人稍微不一样的事情，我可以创造让我欣喜的自我实现的产物。”</p></blockquote><p>对我来说，这是一个信号。</p><p>也许，是时候了。作为学生，我们显然需要“出走”。这是一个开始：对于任何一个正在阅读这段文字的学生而言，或许现在是时候停下来，想一想了。</p><p>出走，并不是对社会现实的全盘否定。而是去认识到它的荒谬，与它决裂，并逐渐地开始构建出属于你自己的价值观。也就是要回答：我是谁？和别人的区别是什么？在我看来，什么是成功？我要怎么达到这一标准？——以及，如果你认为自己有能力回答的话，你活着的理由是什么？诚然，回答这些问题并不简单，然而如果你选择回避，它们并不会就此凭空消失，而是会像一个幽灵，在你往后的人生中不断地盘旋。我想，也许我的回答可以给你一些启发。</p><p>我是一个喜欢写字的人。一个高中生。我的文学创作把我和别的人区分开，尽管我并不比任何人写得好。当然，我的身上还有许多特质，比如说我的理想主义，我复杂的亲密关系历史所导致的独特性格，以及，我在圆号演奏方面可以完成个人内部的日益精进。在我看来，成功就是对自己生活的主观满足。为了达到这一标准，我需要减少对自己的升学压力，这就涉及到降低我自己和我老师对我的升学期望。我活着，是因为活着，就还能痛苦，还能狂喜，还能爱。</p><p>也许你会问：我要怎么找到我自己的价值，或者说，我喜欢做的事情呢？除了看视频和打游戏，我没有什么特别的爱好，怎么办？</p><p>我的建议是：去强迫自己开始做那些无聊的事。去用力地试着拥抱那些枯燥、乏味的，甚至痛苦的事。比方说，在纸上写下一些字。比方说，动身去爬你家附近的那座山。比方说，翻开那本你买了很久但是没有看的书。<strong>强迫自己开始做那些无聊的事，直到它们开始变得有趣</strong>。强迫自己进入乏味又痛苦的行动中，直到你开始找到乐趣。在我看来，行动本身比行动的内容更加重要。只要你还在行动，你就还是一个“人”，你在主动的位置上，而不是一个“物”，被动地随波逐流。只有这样，你才能回答：你是谁？你和别人的区别是什么？你认为什么是成功？你要怎么达到这一标准？你活着的理由是什么？</p><p>我就是这么走过来的。我相信你也可以。</p><p>诚然，我还是要去参加那场算法竞赛。我们每一个人都还即将在生活中面对无数场算法竞赛。但是至少，从现在这一刻开始，你可以说：我的成功不由这个烂到发臭的话语系统来定义。我有我喜欢的事，我自己的性格，独立的思想：在面对这场我不得不打的算法竞赛时，我是一个<strong>人</strong>，而不是一个物。这是一种底气。我想，我们都需要它。</p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-    
-    
-    <categories>
-      
-      <category>random thoughts</category>
       
     </categories>
     
@@ -68,9 +24,51 @@
       
       <tag>education</tag>
       
-      <tag>Chinese</tag>
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>对于亲密关系的思考</title>
+    <link href="/2025/02/28/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB/"/>
+    <url>/2025/02/28/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB/</url>
+    
+    <content type="html"><![CDATA[<p>从小学五年级开始到现在，我曲折的感情历史像一场大型的迷路，每当我决定一条分叉时，就既定了我的折返。于是总是一次次地回到原点，好处在于我经历了，并有从中学到什么。</p><p>所以，作为一个经历过恋爱大部分环节（暗恋、暧昧、热恋、异地、分手）并且每个环节都不止一次的高中生，这些经历到底都带给了我些什么呢？按照我的写作习惯，我先把本篇文章的结构列出来，然后再详细展开。</p><ol><li>暧昧</li><li>热恋期</li><li>异地</li><li>面对分手</li><li>其它</li></ol><h1 id="暧昧"><a href="#暧昧" class="headerlink" title="暧昧"></a>暧昧</h1><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+    
+    
+    <categories>
+      
+      <category>random thought</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>love</tag>
       
     </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Under the Shadow of Failure</title>
+    <link href="/2025/02/21/Under-the-Shadow-of-Failure/"/>
+    <url>/2025/02/21/Under-the-Shadow-of-Failure/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p>Piecing myself back together from the bitterness.</p></blockquote><p>Yesterday, I competed in the Senior division of the CCC algorithm contest. Three hours in total. In thirty minutes, I solved the first two problems. For the next two and a half hours, nothing. I tried—yes—but the 0&#x2F;15 on the screen was unyielding. A cold, heavy helplessness crept over me, slow and suffocating. Ten minutes before the end, I knew it was over. I looked at the screen. At the window. At my classmates. Then I stood up and walked out.</p><p>Perhaps I should have practiced more. Practiced segment trees. Studied A*. Thought of enumeration earlier. These thoughts crashed over me the moment I left.</p><p>This is not unfamiliar. Last semester, I did HiMCM, a mathematical modelling competition. We worked hard, met every requirement, and used a range of methods—time series analysis, differential equations, convolutional neural networks, polynomial regression. Our explanations were thorough, our structure clear, our results solid. My time series model fit real-world data almost perfectly. We had expectations. We got an M award. That was it.</p><p>The year before, I took AMC10. I prepared hard. Scored 106. Past years said that was enough for an award. That year, the cutoff rose beyond 110. Honor Roll Distinction? 139.5. A classmate scored 140 on both A and B tests. I wondered if this was still the AMC I knew. Then I heard about the leaks.</p><p>Failure is a constant. I do not dwell on it, but I feel it—something shattering, irreparable. And then I gather the pieces, piece myself back together, and move on.</p><p>This is where I should say failure is growth, experience, a stepping stone. That it makes you stronger. That would be neat. But it would not help. The weight of failure, the sting of wasted effort, the chasm between expectation and outcome—these things are real. They do not dissolve with words.</p><p>So instead, I walk with failure.</p><p>The method is simple: routine. No matter how crushing the loss, it does not disrupt my daily rhythm. Walks, piano, early mornings—they remain untouched.</p><p>These are my scaffolding. When I falter, they hold me steady. And so, I continue.</p><p>This is why I have done what I have done—an IELTS 7.5, orchestral performances, a full scholarship. Not all of it is conventional success. But I know:</p><ol><li>I persisted, and I saw results.</li><li>My progress does not stop with a result.</li></ol><h2 id="That-is-enough"><a href="#That-is-enough" class="headerlink" title="That is enough."></a>That is enough.</h2><p>Original text in <a href="https://thedarkgoatlord.github.io/2025/02/21/%E4%B8%8E%E5%A4%B1%E8%B4%A5%E5%90%8C%E8%A1%8C/">Chinese</a>, translated by ChatGPT, edited manually.</p><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+    
+    
+    <categories>
+      
+      <category>random thought</category>
+      
+    </categories>
+    
     
   </entry>
   
